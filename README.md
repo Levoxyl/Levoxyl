@@ -13,16 +13,18 @@
 
 ## Languages & Technologies
 
-| Language | Icon | Resource Link |
-|----------|-------|---------------|
-| C / C++  | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) | [Learn C++ (GeeksforGeeks)](https://www.geeksforgeeks.org/c-plus-plus/) |
-| C#       | ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) | [Learn C# (W3Schools)](https://www.w3schools.com/cs/index.php) |
-| PHP      | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) | [Learn PHP (W3Schools)](https://www.w3schools.com/php/) |
-| HTML / JS / TS / React | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | [Learn React (W3Schools)](https://www.w3schools.com/react/) |
-| Java     | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) | [Learn Java (GeeksforGeeks)](https://www.geeksforgeeks.org/java/) |
-| Assembly | ![ASM](https://img.shields.io/badge/-Assembly-6E4C1E?logo=assemblyscript&logoColor=white) | [Assembly Intro (GeeksforGeeks)](https://www.geeksforgeeks.org/introduction-to-assembly-language/) |
-| Go       | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) | [Learn Go (W3Schools)](https://www.w3schools.com/go/) |
-| Fortran  | ![Fortran](https://img.shields.io/badge/-Fortran-4D41A5?logo=fortran&logoColor=white) | [Learn Fortran (GeeksforGeeks)](https://www.geeksforgeeks.org/introduction-to-fortran/) |
+[![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)](https://www.geeksforgeeks.org/c-plus-plus/)  
+[![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)](https://www.w3schools.com/cs/index.php)  
+[![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)](https://www.w3schools.com/php/)  
+[![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://www.w3schools.com/html/)  
+[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://www.w3schools.com/js/)  
+[![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/docs/)  
+[![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)](https://www.w3schools.com/react/)  
+[![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)](https://www.geeksforgeeks.org/java/)  
+[![Assembly](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg)](https://www.geeksforgeeks.org/introduction-to-assembly-language/)  
+[![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg)](https://www.w3schools.com/go/)  
+[![Fortran](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg)](https://www.geeksforgeeks.org/introduction-to-fortran/)
+
 
 ---
 
