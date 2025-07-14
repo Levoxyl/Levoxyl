@@ -51,8 +51,3 @@ Here are some ideas to get you started:
 - Low-level Assembly x86 for reverse engineering
 
 ---
-
-### 📫 How to reach me:
-- Discord: `kaloyan.dev`
-- Email: `you@example.com`
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
