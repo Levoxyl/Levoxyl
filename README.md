@@ -29,7 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VSCode" width="40" height="40"/>
 </p>
 
----
 
 ## 💻 Languages
 
