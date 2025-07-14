@@ -49,7 +49,7 @@
 💬 Reach me only via GitHub for professional reasons.
 
 ---
-
+<!--
 ## Fun Interactive Stuff to Add
 
 - **GitHub Stats Card:**  
@@ -62,6 +62,7 @@
 - Embed simple interactive games or quizzes in repos and link here  
 - Pinned repos showcasing your best work  
 - Fun dev quotes or memes (images only)  
-
----
+-->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=levoxyl&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levoxyl&layout=compact)
+![Trophies](https://github-profile-trophy.vercel.app/?username=levoxyl)
