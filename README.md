@@ -69,14 +69,14 @@
 <p align="center">
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levoxyl&theme=vision-friendly-dark&layout=compact)
   &nbsp;
+  
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=levoxyl&theme=vision-friendly-dark&show_icons=true)
   &nbsp;
+  
   ![Trophies](https://github-profile-trophy.vercel.app/?username=levoxyl&theme=vision-friendly-dark)
 </p>
 
 ---
-
-## 📌 Bonus Fun
 
 <p align="center">
   <img src="https://www.gifcen.com/wp-content/uploads/2022/04/wallpaper-gif-10.gif" alt="Animated Gif" />
