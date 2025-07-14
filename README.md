@@ -64,4 +64,4 @@
 - Fun dev quotes or memes (images only)  
 
 ---
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=levoxyl&show_icons=true&theme=radical)
