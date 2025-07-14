@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Banner or animated text -->
-<h1 align="center">Hi 👋, I'm Kaloyan</h1>
+<h1 align="center">Hi 👋, I'm Leo </h1>
 <h3 align="center">A passionate developer from Bulgaria</h3>
 
 ---
