@@ -1,6 +1,6 @@
 <!-- 🌌 TOP BANNER -->
 <p align="center">
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/04/wallpaper-gif-10.gif" alt="Animated Banner" width="100%" />
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/04/wallpaper-gif-10.gif" alt="Animated Banner" height="20%" width="100%" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" title="Linux Mint" alt="Linux Mint" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/OpenSUSE_Logo.svg" title="openSUSE" alt="openSUSE" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" title="VMware" alt="VMware" width="40" height="40"/>&nbsp;
+  <img src="https://www.meteobridge.com/wiki/images/7/77/Vmware-logo.png?20241204132515" title="VMware" alt="VMware" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VSCode" width="40" height="40"/>
 </p>
 
@@ -48,7 +48,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levoxyl&layout=compact&theme=tokyonight&langs_count=8&hide_progress=false" height="172"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levoxyl&layout=compact&theme=tokyonight&langs_count=8&hide_progress=false" height="169"/>
   <img src="https://github-readme-stats.vercel.app/api?username=levoxyl&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="180"/>
 </p>
 
