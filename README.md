@@ -44,8 +44,8 @@
       </p>
     </td>
     <!-- Right side: image stack -->
-    <td style="width:30%; vertical-align:top; text-align:right;">
-      <img src="https://i.pinimg.com/originals/87/87/11/8787116ccf1340e00cf5c7268e87f196.gif" alt="GIF" style="width:30%; max-width:200px; height:auto;" />
+    <td style="padding-left: 30px;">
+      <img src="https://i.pinimg.com/originals/87/87/11/8787116ccf1340e00cf5c7268e87f196.gif" alt="GIF" style="width:50%; height:auto;" />
     </td>
   </tr>
 </table>
