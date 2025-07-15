@@ -1,6 +1,6 @@
 <!-- 🌌 TOP BANNER -->
 <p align="center">
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/04/wallpaper-gif-10.gif" alt="Animated Banner" height="20%" width="100%" />
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/04/wallpaper-gif-10.gif" alt="Animated Banner" height="250px" width="300px" />
 </p>
 
 ---
