@@ -58,5 +58,5 @@
 ---
 <!-- 👤 PERSONAL GIF AT BOTTOM -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif" alt="Levoxyl Personal" width="100%" />
+  <img src="https://revolution-computing.typepad.com/.a/6a010534b1db25970b01b7c811c344970b-pi" alt="Levoxyl Personal" width="100%" />
 </p>
