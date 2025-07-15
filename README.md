@@ -19,7 +19,7 @@
 <table style="width:100%; border-collapse:collapse;">
   <tr>
     <!-- Left side: Languages + Tools -->
-    <td style="width:70%; vertical-align:top; padding-right:20px;">
+    <td style="width:100%; vertical-align:top; padding-right:120px;">
       <h2>💻 Languages</h2>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
@@ -45,7 +45,7 @@
     </td>
     <!-- Right side: image stack -->
     <td style="width:30%; vertical-align:top; text-align:right;">
-      <img src="https://i.pinimg.com/originals/87/87/11/8787116ccf1340e00cf5c7268e87f196.gif" alt="GIF" style="width:100%; max-width:200px; height:auto;" />
+      <img src="https://i.pinimg.com/originals/87/87/11/8787116ccf1340e00cf5c7268e87f196.gif" alt="GIF" style="width:30%; max-width:200px; height:auto;" />
     </td>
   </tr>
 </table>
