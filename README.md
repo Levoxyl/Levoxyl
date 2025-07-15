@@ -1,12 +1,8 @@
 
 <!-- 🌌 TOP BANNER -->
 
-<div style="width: 100%; max-width: 100%; overflow: hidden; line-height: 0;">
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/04/wallpaper-gif-10.gif" alt="gif" style="width: 100%; height: auto; object-fit: cover; max-height: 150px;" />
-</div>
-
 <p align="center">
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/04/wallpaper-gif-10.gif" alt="Animated Banner" width="100%" />
+  <img src="https://i.ibb.co/KxC2ccLs/ezgif-com-crop.gif" alt="Animated Banner" width="100%" />
 </p>
 
 ---
