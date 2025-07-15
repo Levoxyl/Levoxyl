@@ -17,12 +17,6 @@
 
 ---
 <div style="width:100%; overflow:hidden;">
-
-  <!-- Left-side Image -->
-  <img src="https://i.pinimg.com/originals/87/87/11/8787116ccf1340e00cf5c7268e87f196.gif"
-       alt="Spinning Woman"
-       style="float:left; height:150px; margin-right:15px; border-radius:8px;" />
-
 <table style="width:100%; border-collapse:collapse;">
   <tr>
     <td style="vertical-align:top;">
