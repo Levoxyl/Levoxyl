@@ -16,36 +16,36 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTsRGhVmdMtkHwtkOqYNc1XU8zoJ12BZPv2A&s" alt="Geeks for Geeks" height="25"/>
 
 ---
-<table style="width:100%; border-collapse:collapse;">
+<table>
   <tr>
-    <!-- Left side: Languages + Tools -->
-    <td style="width:100%; vertical-align:top; padding-right:120px;">
-      <h2>💻 Languages</h2>
+    <!-- LEFT: Sections -->
+    <td valign="top" style="padding-right: 20px;">
+      <h3>💻 Languages</h3>
       <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="32" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" width="32" />
       </p>
-      <h2>🛠️ Tools</h2>
+      <h3>🛠️ Tools</h3>
       <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" width="40" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/OpenSUSE_Logo.svg" width="40" />
-        <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" />
-        <img src="https://www.meteobridge.com/wiki/images/7/77/Vmware-logo.png?20241204132515" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="32" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" width="32" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/OpenSUSE_Logo.svg" width="32" />
+        <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="32" />
+        <img src="https://www.meteobridge.com/wiki/images/7/77/Vmware-logo.png" width="32" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" />
       </p>
     </td>
-    <!-- Right side: image stack -->
-    <td style="padding-left: 30px;">
-      <img src="https://i.pinimg.com/originals/87/87/11/8787116ccf1340e00cf5c7268e87f196.gif" alt="GIF" style="width:50%; height:auto;" />
+    <!-- RIGHT: Image -->
+    <td valign="top" align="right">
+      <img src="https://i.pinimg.com/originals/87/87/11/8787116ccf1340e00cf5c7268e87f196.gif" width="150" />
     </td>
   </tr>
 </table>
