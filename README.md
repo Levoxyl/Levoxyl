@@ -16,12 +16,13 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTsRGhVmdMtkHwtkOqYNc1XU8zoJ12BZPv2A&s" alt="Geeks for Geeks" height="25"/>
 
 ---
-<table>
+<table width="100%" style="table-layout: fixed;">
   <tr>
-    <td>
+    <!-- Left cell: take full available width except image -->
+    <td style="width: calc(100% - 220px); vertical-align: top;">
       <!-- Tools -->
       <h2>🛠️ Tools</h2>
-      <p align="left">
+      <p align="left" style="margin-bottom: 1em;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows 10" alt="Win10" width="40" height="40"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" title="Linux Mint" alt="Linux Mint" width="40" height="40"/>&nbsp;
@@ -32,7 +33,7 @@
       </p>
       <!-- Languages -->
       <h2>💻 Languages</h2>
-      <p align="left">
+      <p align="left" style="margin-bottom: 1em;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -44,8 +45,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" title="Fortran" alt="Fortran" width="40" height="40"/>
       </p>
     </td>
-    <td align="right" valign="top">
-      <img src="https://i.pinimg.com/originals/87/87/11/8787116ccf1340e00cf5c7268e87f196.gif" alt="Levoxyl Personal" width="200px" />
+    <!-- Right cell: fixed width for image, top aligned, no bottom space -->
+    <td style="width: 220px; vertical-align: top; padding: 0; margin: 0;">
+     <img 
+        src="https://i.pinimg.com/originals/87/87/11/8787116ccf1340e00cf5c7268e87f196.gif" 
+        alt="Levoxyl Personal" 
+        style="display: block; width: 200px; margin: 0; padding: 0;" />
     </td>
   </tr>
 </table>
