@@ -1,6 +1,6 @@
 <!-- 🌌 TOP BANNER -->
 <p align="center">
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/04/wallpaper-gif-10.gif" alt="Animated Banner" width="100%" />
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/04/wallpaper-gif-10.gif" alt="Animated Banner" width="50%" />
 </p>
 
 ---
@@ -8,12 +8,12 @@
 ## 🧠 Tech Background
 
 👨‍🎓 Graduated from a professional programming school with **5 years of hands-on projects and industrial practice** at [Melexis](https://www.melexis.com/) and [Schwarz IT](https://www.schwarz-it.com/en/).  
-🛠️ Obsessed with low-level code, game dev, and embedded systems.  
+🛠️ Hobbying with low-level code, game dev, and embedded systems.  
 💻 Currently exploring:
 &nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz3XWYKu_vwhT-kwB_3GYLfw7OHWwzMO2VPw&s" alt="Kali Linux" height="30"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s" alt="Hack The Box" height="30"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTsRGhVmdMtkHwtkOqYNc1XU8zoJ12BZPv2A&s" alt="Geeks for Geeks" height="30"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz3XWYKu_vwhT-kwB_3GYLfw7OHWwzMO2VPw&s" alt="Kali Linux" height="25"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s" alt="Hack The Box" height="25"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTsRGhVmdMtkHwtkOqYNc1XU8zoJ12BZPv2A&s" alt="Geeks for Geeks" height="25"/>
 
 ---
 
@@ -28,7 +28,6 @@
   <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" title="VMware" alt="VMware" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VSCode" width="40" height="40"/>
 </p>
-
 
 ## 💻 Languages
 
@@ -49,11 +48,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levoxyl&layout=compact&theme=tokyonight&langs_count=8&hide_progress=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levoxyl&layout=compact&theme=tokyonight&langs_count=8&hide_progress=false" height="175"/>
   <img src="https://github-readme-stats.vercel.app/api?username=levoxyl&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="180"/>
 </p>
-
----
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=levoxyl&theme=tokyonight&margin-w=10&row=1&column=7"/>
@@ -61,5 +58,5 @@
 
 <!-- 👤 PERSONAL GIF AT BOTTOM -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif" alt="Levoxyl Personal" width="200px" />
+  <img src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif" alt="Levoxyl Personal" width="450px" />
 </p>
