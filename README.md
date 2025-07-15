@@ -1,5 +1,13 @@
-so for now this is my readme:
+
 <!-- 🌌 TOP BANNER -->
+
+<div style="width: 100%; height: 150px; overflow: hidden; position: relative;">
+  <img 
+    src="https://www.gifcen.com/wp-content/uploads/2022/04/wallpaper-gif-10.gif" 
+    alt="cropped gif" 
+    style="width: 100%; position: relative; top: -50%;" />
+</div>
+
 <p align="center">
   <img src="https://www.gifcen.com/wp-content/uploads/2022/04/wallpaper-gif-10.gif" alt="Animated Banner" width="100%" />
 </p>
