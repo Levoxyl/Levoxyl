@@ -1,6 +1,6 @@
 <!-- 🌌 TOP BANNER -->
 <p align="center">
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/04/wallpaper-gif-10.gif" alt="Animated Banner" height="250px" width="300px" />
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/04/wallpaper-gif-10.gif" alt="Animated Banner" width="100%" />
 </p>
 
 ---
@@ -58,5 +58,5 @@
 
 <!-- 👤 PERSONAL GIF AT BOTTOM -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif" alt="Levoxyl Personal" width="450px" />
+  <img src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif" alt="Levoxyl Personal" width="100%" />
 </p>
