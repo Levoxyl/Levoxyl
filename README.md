@@ -43,7 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" title="Fortran" alt="Fortran" width="40" height="40"/>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -56,6 +55,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=levoxyl&theme=tokyonight&margin-w=10&row=1&column=7"/>
 </p>
 
+---
 <!-- 👤 PERSONAL GIF AT BOTTOM -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif" alt="Levoxyl Personal" width="100%" />
