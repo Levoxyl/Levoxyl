@@ -1,11 +1,8 @@
 
 <!-- 🌌 TOP BANNER -->
 
-<div style="width: 100%; height: 150px; overflow: hidden; position: relative;">
-  <img 
-    src="https://www.gifcen.com/wp-content/uploads/2022/04/wallpaper-gif-10.gif" 
-    alt="cropped gif" 
-    style="width: 100%; position: relative; top: -50%;" />
+<div style="width: 100%; max-width: 100%; overflow: hidden; line-height: 0;">
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/04/wallpaper-gif-10.gif" alt="gif" style="width: 100%; height: auto; object-fit: cover; max-height: 150px;" />
 </div>
 
 <p align="center">
