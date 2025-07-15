@@ -16,11 +16,10 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTsRGhVmdMtkHwtkOqYNc1XU8zoJ12BZPv2A&s" alt="Geeks for Geeks" height="25"/>
 
 ---
-
+<!-- 🛠️ Tools and 💻 Languages with GIF on the right -->
 <table>
   <tr>
     <td valign="top" width="70%">
-      
       <h2>🛠️ Tools</h2>
       <p align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows 10" alt="Win10" width="40" height="40"/>&nbsp;
@@ -43,7 +42,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" title="Fortran" alt="Fortran" width="40" height="40"/>
       </p>
-
     </td>
     <td valign="top" align="center" width="30%">
       <img src="https://i.pinimg.com/originals/87/87/11/8787116ccf1340e00cf5c7268e87f196.gif" alt="Spinning Woman" width="200px"/>
