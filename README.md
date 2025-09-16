@@ -9,7 +9,7 @@
 
 ## 🧠 Tech Background
 
-👨‍🎓 Graduated profesional school with programming | **5 years of hands-on projects and industrial practice** at [Melexis](https://www.melexis.com/) and [Schwarz IT](https://www.schwarz-it.com/en/).  
+👨‍🎓 Graduated from a profesional school with programming |  **5 years of hands-on projects and industrial practice** at [Melexis](https://www.melexis.com/) and [Schwarz IT](https://www.schwarz-it.com/en/).  
 🛠️ Hobbying with low-level code, game dev, and embedded systems.  
 💻 Currently exploring:
 &nbsp;
