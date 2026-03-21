@@ -53,6 +53,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=levoxyl&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="180"/>
 </p>
 <!--START_SECTION:waka-->
+
+```txt
+From: 13 March 2026 - To: 20 March 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=levoxyl&color=blueviolet)
