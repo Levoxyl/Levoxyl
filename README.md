@@ -52,8 +52,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levoxyl&layout=compact&theme=tokyonight&langs_count=8&hide_progress=false" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api?username=levoxyl&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="180"/>
 </p>
-[![levoxyl's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=levoxyl&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=levoxyl&color=blueviolet)
 ---
 <!-- 
