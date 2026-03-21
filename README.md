@@ -53,10 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=levoxyl&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=levoxyl&theme=tokyonight&margin-w=10&row=1&column=7"/>
-</p>
-
+![](https://komarev.com/ghpvc/?username=levoxyl&color=blueviolet)
 ---
 <!-- 
 <p align="center">
