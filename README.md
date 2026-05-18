@@ -54,6 +54,6 @@
 
 ## ⏱️ Weekly Coding Activity
 
-<!--START_SECTION:wakatime-->
+<!--START_SECTION:waka-->
 ```txt
-Processing data... Your tracked terminal and IDE metrics will generate here via GitHub Actions shortly.
+Processing data... Your metrics are generating.
