@@ -5,10 +5,8 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch: 
 
-# THIS BLOCK IS WHAT FIXED THE 403 ERROR
 permissions:
   contents: write
-  user: read
 
 jobs:
   update-readme:
