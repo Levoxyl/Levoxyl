@@ -1,4 +1,3 @@
-
 <!-- 🌌 TOP BANNER -->
 
 <p align="center">
@@ -49,25 +48,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levoxyl&layout=compact&theme=tokyonight&langs_count=8&hide_progress=false" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=levoxyl&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levoxyl&layout=compact&theme=tokyonight&langs_count=8&hide_progress=false" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=levoxyl&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="195"/>
 </p>
-<!--START_SECTION:waka-->
 
+## ⏱️ Weekly Coding Activity
+
+<!--START_SECTION:wakatime-->
 ```txt
-From: 10 May 2026 - To: 17 May 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-![](https://komarev.com/ghpvc/?username=levoxyl&color=blueviolet)
-
----
-<!-- 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/87/87/11/8787116ccf1340e00cf5c7268e87f196.gif" alt="Levoxyl Personal" width="50%" />
-</p>  -->
+Processing data... Your tracked terminal and IDE metrics will generate here via GitHub Actions shortly.
