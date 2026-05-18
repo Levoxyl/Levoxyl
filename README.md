@@ -55,5 +55,4 @@
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-```txt
-Processing data... Your metrics are generating.
+<!--END_SECTION:waka-->
