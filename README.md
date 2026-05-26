@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=006AFF&center=true&vCenter=true&width=500&lines=Software+Engineer;Junior+Developer;Building+HackerVisuals..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=006AFF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-stack;Intermediate+Developer;Building+the+unexpected..." alt="Typing SVG" />
 </p>
 
 ## 🧠 Tech Background
