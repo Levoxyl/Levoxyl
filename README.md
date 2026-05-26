@@ -47,10 +47,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Levoxyl&show_icons=true&theme=radical" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levoxyl&layout=compact&theme=radical" alt="Top Languages" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=dark" alt="Levoxyl GitHub Stats" height="195" />
 </p>
-
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
