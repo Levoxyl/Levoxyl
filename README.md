@@ -49,7 +49,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=dark" alt="Levoxyl GitHub Stats" height="195" />
 </p>
-## ⏱️ Weekly Coding Activity
+
+## ⏱️ WakaTime Active-Coding Activity
+
+Active coding activity means that WakaTime doesn't measure time spend in the code editor while the window is opened, but  the lines of code caluclated into an equivalent astronomical time.
 
 <!--START_SECTION:waka-->
 
