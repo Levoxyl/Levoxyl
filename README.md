@@ -4,8 +4,6 @@
   <img src="https://i.ibb.co/KxC2ccLs/ezgif-com-crop.gif" alt="Animated Banner" width="100%" />
 </p>
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1000&color=FFF&center=true&vCenter=true&width=500&lines=Full-stack+Mid-Dev;Building+the+unexpected..." alt="Typing SVG" />
 </p>
@@ -56,6 +54,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levoxyl&theme=transparent" alt="Levoxyl GitHub Stats" height="195" />
 </p>
 <p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Levoxyl&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e&show_icons=true" alt="Levoxyl Core Stats" height="195" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=transparent" alt="Levoxyl GitHub Streak" height="195" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Levoxyl&theme=transparent" alt="Levoxyl Top Languages" height="195" />
 </p>
@@ -69,19 +70,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 <!-- Prussian theme is also nice -->
-
-## Test
-
-<!-- 3. MAIN STATS + ACCOUNT DETAILS GRID -->
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Levoxyl&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e&show_icons=true" alt="Levoxyl Core Stats" height="195" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levoxyl&theme=transparent&title_color=006AFF&text_color=8b949e" alt="Levoxyl GitHub Stats" height="195" />
-</p>
-
-<p align="center">
-  <!-- Notice the &v=1 is placed inside the query parameters of the fast.vercel link -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Levoxyl&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e&show_icons=true&v=1" alt="Levoxyl Core Stats" />
-</p>
 
 ## ⏱️ WakaTime Active Coding Activity
 
