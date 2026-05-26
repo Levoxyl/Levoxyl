@@ -55,7 +55,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Levoxyl&theme=transparent" alt="Levoxyl Top Languages" height="195" />
 </p>
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Levoxyl&repo=HackerVisual&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e" alt="Project Spotlight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Levoxyl&repo=HackerVisual&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e" alt="Project Spotlight" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
