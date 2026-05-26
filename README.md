@@ -6,6 +6,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=006AFF&center=true&vCenter=true&width=500&lines=Software+Engineer;Junior+Developer;Building+HackerVisuals..." alt="Typing SVG" />
+</p>
+
 ## 🧠 Tech Background
 
 👨‍🎓 Graduated from a profesional school with programming |  **5 years of hands-on projects and industrial practice** at [Melexis](https://www.melexis.com/) and [Schwarz IT](https://www.schwarz-it.com/en/).  
