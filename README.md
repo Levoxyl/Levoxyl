@@ -10,6 +10,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=006AFF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-stack;Intermediate+Developer;Building+the+unexpected..." alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghvc/?username=Levoxyl&color=006AFF&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
+</p>
+
 ## 🧠 Tech Background
 
 👨‍🎓 Graduated from a profesional school with programming |  **5 years of hands-on projects and industrial practice** at [Melexis](https://www.melexis.com/) and [Schwarz IT](https://www.schwarz-it.com/en/).  
