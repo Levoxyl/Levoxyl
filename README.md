@@ -47,7 +47,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Levoxyl&theme=tokyonight&no-bg=true&no-frame=true&column=6" alt="Levoxyl Trophies" height="195" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Levoxyl&theme=tokyonight&no-bg=true&no-frame=true&column=6" alt="Levoxyl Trophies" height="215" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levoxyl&theme=transparent" alt="Levoxyl GitHub Stats" height="195" />
 </p>
 <p align="center">
