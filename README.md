@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=dark" alt="Levoxyl GitHub Streak" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=merko" alt="Levoxyl GitHub Streak" height="195" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Levoxyl&theme=dracula" alt="Levoxyl Top Languages" height="195" />
 </p>
 
