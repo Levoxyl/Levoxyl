@@ -49,8 +49,13 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=dark" alt="Levoxyl GitHub Streak" height="195" />
 </p>
-<p align="center" 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levoxyl&theme=dark" alt="Levoxyl GitHub Stats" height="195" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levoxyl&theme=dracula" alt="Levoxyl GitHub Stats" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=dark" alt="GitHub Streak" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levoxyl&layout=compact&theme=dark&langs_count=6" alt="Top Languages" height="195" />
 </p>
 
 <!--theme tester-->
