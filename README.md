@@ -50,6 +50,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levoxyl&theme=transparent" alt="Levoxyl GitHub Stats" height="195" />
   <img src="https://github-profile-trophy.vercel.app/?username=Levoxyl&theme=transparent&column=7" alt="Levoxyl Trophies" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Levoxyl&theme=dracula" alt="Levoxyl Activity Graph" />
+</p>
+
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=transparent" alt="Levoxyl GitHub Streak" height="195" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Levoxyl&theme=transparent" alt="Levoxyl Top Languages" height="195" />
