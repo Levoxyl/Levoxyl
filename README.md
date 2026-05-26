@@ -48,6 +48,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=dark" alt="Levoxyl GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Levoxyl&show_icons=true&theme=dark" alt="Levoxyl GitHub Stats" height="195" />
 </p>
 
 ## ⏱️ WakaTime Active Coding Activity
