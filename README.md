@@ -52,7 +52,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=prussian" alt="Levoxyl GitHub Streak" height="195" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Levoxyl&theme=nord" alt="Levoxyl Top Languages" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Levoxyl&theme=gotham" alt="Levoxyl Top Languages" height="195" />
 </p>
 
 ## ⏱️ WakaTime Active Coding Activity
