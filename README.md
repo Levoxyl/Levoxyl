@@ -48,8 +48,33 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=dark" alt="Levoxyl GitHub Streak" height="195" />
+</p>
+<p align="center" 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levoxyl&theme=dark" alt="Levoxyl GitHub Stats" height="195" />
 </p>
+
+<!--theme tester-->
+<p align="center" 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levoxyl&theme=jolly" alt="Levoxyl GitHub Stats" height="195" />
+</p>
+<p align="center" 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levoxyl&theme=blueberry" alt="Levoxyl GitHub Stats" height="195" />
+</p><p align="center" 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levoxyl&theme=apprentice" alt="Levoxyl GitHub Stats" height="195" />
+</p>
+<p align="center" 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levoxyl&theme=moltack" alt="Levoxyl GitHub Stats" height="195" />
+</p>
+<p align="center" 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levoxyl&theme=codeSTACKr" alt="Levoxyl GitHub Stats" height="195" />
+</p>
+<p align="center" 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levoxyl&theme=date_night" alt="Levoxyl GitHub Stats" height="195" />
+</p>
+<p align="center" 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levoxyl&theme=holi" alt="Levoxyl GitHub Stats" height="195" />
+</p>
+
 
 ## ⏱️ WakaTime Active Coding Activity
 
