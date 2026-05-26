@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Levoxyl/Levoxyl/output/github-contribution-grid-snake.svg" alt="Activity Snake" />
+  <img src="https://github-readme-isometric-view.vercel.app/api?user=Levoxyl&theme=dracula" alt="3D Profile Graph" />
 </p>
 
 <p align="center">
