@@ -54,6 +54,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=transparent" alt="Levoxyl GitHub Streak" height="195" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Levoxyl&theme=transparent" alt="Levoxyl Top Languages" height="195" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Levoxyl&repo=https://github.com/Levoxyl/HackerVisual&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e" alt="Project Spotlight" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -65,10 +70,6 @@
 ## ⏱️ WakaTime Active Coding Activity
 
 "Active coding" means that WakaTime doesn't measure time spend in the IDE/Code editor, based on the amount of time that the software's window is opened, but the lines of hand-written code calculated into an equivalent astronomical time.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Levoxyl&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e&layout=compact" alt="Levoxyl Wakatime Stats" />
-</p>
 
 <!--START_SECTION:waka-->
 
