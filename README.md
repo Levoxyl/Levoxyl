@@ -66,6 +66,10 @@
 
 "Active coding" means that WakaTime doesn't measure time spend in the IDE/Code editor, based on the amount of time that the software's window is opened, but the lines of hand-written code calculated into an equivalent astronomical time.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Levoxyl&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e&layout=compact" alt="Levoxyl Wakatime Stats" />
+</p>
+
 <!--START_SECTION:waka-->
 
 ```txt
