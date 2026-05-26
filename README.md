@@ -59,9 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Levoxyl&repo=HackerVisual&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e" alt="Project Spotlight" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Stack-Python_%7C_TypeScript_%7C_C%23-006AFF?style=flat&labelColor=161b22" alt="Tech Stack" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
