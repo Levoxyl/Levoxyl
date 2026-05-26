@@ -46,7 +46,7 @@
 
 
 ## 📊 GitHub Stats
-
+[![levoxyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Levoxyl)](https://github.com/anuraghazra/github-readme-stats)
 ![Levoxyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Levoxyl&commits_year=2020)
 
 ## ⏱️ Weekly Coding Activity
