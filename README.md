@@ -47,10 +47,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="[https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=levoxyl&layout=compact&theme=tokyonight&langs_count=8&hide_progress=false](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=levoxyl&layout=compact&theme=tokyonight&langs_count=8&hide_progress=false)" height="195"/>
-  <img src="[https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=levoxyl&show_icons=true&theme=tokyonight&hide=issues&count_private=true](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=levoxyl&show_icons=true&theme=tokyonight&hide=issues&count_private=true)" height="195"/>
-</p>
+![Levoxyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Levoxyl&commits_year=2020)
 
 ## ⏱️ Weekly Coding Activity
 
