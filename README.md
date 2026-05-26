@@ -55,6 +55,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Levoxyl&theme=transparent" alt="Levoxyl Activity Graph" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Levoxyl/Levoxyl/output/github-contribution-grid-snake.svg" alt="Activity Snake" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=transparent" alt="Levoxyl GitHub Streak" height="195" />
