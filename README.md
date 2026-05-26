@@ -90,7 +90,7 @@
 
 ## ⏱️ WakaTime Active Coding Activity
 
-"Active coding" means that WakaTime doesn't measure time spend in the IDE/Code editor, based on the amount of time that the software's window is opened, but the lines of hand-written code calculated into an equivalent astronomical time.
+"Active coding" means that WakaTime doesn't measure time spend in the IDE/Code editor, based on the amount of time that the software's window has been opened, but the lines of hand-written code based on their character length calculated into an equivalent astronomical time.
 
 <!--START_SECTION:waka-->
 
