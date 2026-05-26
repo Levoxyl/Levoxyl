@@ -51,10 +51,10 @@
 ## 📊 GitHub Stats
 
 
-<!--    Graph     -->
+<!--    Graph   h=195  -->
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levoxyl&theme=transparent" alt="Levoxyl GitHub Stats" height="195" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levoxyl&theme=transparent" alt="Levoxyl GitHub Stats" width="920" />
 </p>
 
 
