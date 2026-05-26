@@ -78,6 +78,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levoxyl&theme=transparent&title_color=006AFF&text_color=8b949e" alt="Levoxyl GitHub Stats" height="195" />
 </p>
 
+<p align="center">
+  <!-- Notice the &v=1 is placed inside the query parameters of the fast.vercel link -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Levoxyl&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e&show_icons=true&v=1" alt="Levoxyl Core Stats" />
+</p>
+
 ## ⏱️ WakaTime Active Coding Activity
 
 "Active coding" means that WakaTime doesn't measure time spend in the IDE/Code editor, based on the amount of time that the software's window is opened, but the lines of hand-written code calculated into an equivalent astronomical time.
