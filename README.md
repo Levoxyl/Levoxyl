@@ -46,8 +46,15 @@
 
 
 ## 📊 GitHub Stats
-[![levoxyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Levoxyl)](https://github.com/anuraghazra/github-readme-stats)
-![Levoxyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Levoxyl&commits_year=2020)
+![Levoxyl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Levoxyl&show_icons=true&theme=radical)
+![Levoxyl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Levoxyl&show_icons=true&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Levoxyl&show_icons=true&theme=radical" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levoxyl&layout=compact&theme=radical" alt="Top Languages" height="195" />
+</p>
+
+
 
 ## ⏱️ Weekly Coding Activity
 
