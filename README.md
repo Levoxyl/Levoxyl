@@ -54,14 +54,13 @@
 
 <p align="center">
   <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Levoxyl&theme=tokyonight&no-bg=true&no-frame=true&column=4" alt="Levoxyl Trophies" height="215" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=transparent" alt="Levoxyl GitHub Streak" height="195" />
 </p>
 
 
 <!--  GitHub Streak and Total Contributions  -->
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=transparent" alt="Levoxyl GitHub Streak" height="195" />
-</p>
+
 
 <!--   Core stats(Grade) and Language summary     -->
 
