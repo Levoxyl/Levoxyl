@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=006AFF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-stack;Intermediate+Developer;Building+the+unexpected..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-stack;Intermediate+Developer;Building+the+unexpected..." alt="Typing SVG" />
 </p>
 
 
@@ -70,6 +70,27 @@
 </p>
 <!-- Prussian theme is also nice -->
 
+## Test
+<!-- 1. TYPING GREETING HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=006AFF&center=true&vCenter=true&width=500&lines=Software+Engineer;Junior+Developer;Building+HackerVisuals..." alt="Typing SVG" />
+</p>
+
+<!-- 2. VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Levoxyl&color=006AFF&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
+</p>
+
+<!-- 3. MAIN STATS + ACCOUNT DETAILS GRID -->
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Levoxyl&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e&show_icons=true" alt="Levoxyl Core Stats" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levoxyl&theme=transparent&title_color=006AFF&text_color=8b949e" alt="Levoxyl GitHub Stats" height="195" />
+</p>
+
+<!-- 4. TRANSPARENT TROPHIES GRID -->
+<p align="center">
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Levoxyl&theme=root&title=006AFF&text=8b949e&no-bg=true&no-frame=true&column=6" alt="Levoxyl Trophies" />
+</p>
 ## ⏱️ WakaTime Active Coding Activity
 
 "Active coding" means that WakaTime doesn't measure time spend in the IDE/Code editor, based on the amount of time that the software's window is opened, but the lines of hand-written code calculated into an equivalent astronomical time.
