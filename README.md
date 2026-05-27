@@ -89,6 +89,10 @@
   <img src="https://img.shields.io/badge/Bioinformatics-FASTA_Sequence_Analysis-006AFF?style=flat&logo=python&logoColor=white" alt="Python Bioinformatics" />
   <img src="https://img.shields.io/badge/Information_Architecture-Data_Mapping_%26_Object_Relational_Structures-006AFF?style=flat&logo=typescript&logoColor=white" alt="TypeScript Data Architecture" />
   <img src="https://img.shields.io/badge/Volumetric_Graphics-Three.js_3D_Component_Design-006AFF?style=flat&logo=three.js&logoColor=white" alt="Three.js 3D Engine" />
+  <img src="https://img.shields.io/badge/Database_Security-SQLi_Mitigation_%26_Input_Sanitization-006AFF?style=flat&logo=owasp&logoColor=white" alt="SQL Injection Defense" />
+  <img src="https://img.shields.io/badge/Data_Architecture-Parameterized_MySQL_%26_PostgreSQL-006AFF?style=flat&logo=postgresql&logoColor=white" alt="Secure Relational Databases" />
+  <img src="https://img.shields.io/badge/Defensive_Engineering-Secure_Query_Design-006AFF?style=flat&logo=protex&logoColor=white" alt="Secure Query Design" />
+  <img src="https://img.shields.io/badge/Information_Assurance-Authentication_Bypass_Prevention-006AFF?style=flat&logo=sonarqube&logoColor=white" alt="Auth Hardening" />
   
 </p>
 <!-- Prussian theme is also nice -->
