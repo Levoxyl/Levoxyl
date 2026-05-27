@@ -54,7 +54,7 @@
 <!--    Graph   h=195  -->
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levoxyl&theme=transparent" alt="Levoxyl GitHub Stats" width="950" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levoxyl&theme=transparent&v=2" alt="Levoxyl GitHub Stats" width="950" />
 </p>
 
 
@@ -62,7 +62,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Levoxyl&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e&show_icons=true" alt="Levoxyl Core Stats" width="570" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Levoxyl&theme=transparent" alt="Levoxyl Top Languages" width="370" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Levoxyl&theme=transparent&v=2" alt="Levoxyl Top Languages" width="370" />
 </p>
 
 
