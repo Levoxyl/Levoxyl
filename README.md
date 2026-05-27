@@ -81,7 +81,7 @@
 <!--   Badges    -->
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Systems-C++-blue)&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Embedded Systems and OS -C++-blue)&logo=python&logoColor=white" alt="Python" /> operating systems, embedded systems
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
