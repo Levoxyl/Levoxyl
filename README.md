@@ -81,9 +81,9 @@
 <!--   Badges    -->
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Memory_Safety-RAII_%7C_AddressSanitizer-006AFF?style=flat&logo=cplusplus&logoColor=white" alt="C++ Memory Safety" />
-<img src="https://img.shields.io/badge/Discrete_Mathematics-Numerical_Algorithms_in_C%23-006AFF?style=flat&logo=dotnet&logoColor=white" alt="C# Algorithms" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Memory_Safety-RAII_%7C_AddressSanitizer-006AFF?style=flat&logo=cplusplus&logoColor=white" alt="C++ Memory Safety" />
+  <img src="https://img.shields.io/badge/Discrete_Mathematics-Numerical_Algorithms_in_C%23-006AFF?style=flat&logo=dotnet&logoColor=white" alt="C# Algorithms" />
+  <img src="https://img.shields.io/badge/Bioinformatics-FASTA_Sequence_Analysis-006AFF?style=flat&logo=python&logoColor=white" alt="Python Bioinformatics" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 <!-- Prussian theme is also nice -->
