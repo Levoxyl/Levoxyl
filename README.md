@@ -84,6 +84,7 @@
   <img src="https://img.shields.io/badge/Memory_Safety-RAII_%7C_AddressSanitizer-006AFF?style=flat&logo=cplusplus&logoColor=white" alt="C++ Memory Safety" />
   <img src="https://img.shields.io/badge/Discrete_Mathematics-Numerical_Algorithms_in_C%23-006AFF?style=flat&logo=dotnet&logoColor=white" alt="C# Algorithms" />
   <img src="https://img.shields.io/badge/Applied_Mathematics-Computational_Geometry_%26_Vector_Math-006AFF?style=flat&logo=scipy&logoColor=white" alt="Computational Geometry" />
+  <img src="https://img.shields.io/badge/Computer_Science-Algorithmic_Combinatorics-006AFF?style=flat&logo=gitbook&logoColor=white" alt="Combinatorics Logic" />
   <img src="https://img.shields.io/badge/Bioinformatics-FASTA_Sequence_Analysis-006AFF?style=flat&logo=python&logoColor=white" alt="Python Bioinformatics" />
   <img src="https://img.shields.io/badge/Information_Architecture-Data_Mapping_%26_Object_Relational_Structures-006AFF?style=flat&logo=typescript&logoColor=white" alt="TypeScript Data Architecture" />
   <img src="https://img.shields.io/badge/Volumetric_Graphics-Three.js_3D_Component_Design-006AFF?style=flat&logo=three.js&logoColor=white" alt="Three.js 3D Engine" />
