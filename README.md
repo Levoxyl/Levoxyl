@@ -84,7 +84,7 @@
   <img src="https://img.shields.io/badge/Memory_Safety-RAII_%7C_AddressSanitizer-006AFF?style=flat&logo=cplusplus&logoColor=white" alt="C++ Memory Safety" />
   <img src="https://img.shields.io/badge/Discrete_Mathematics-Numerical_Algorithms_in_C%23-006AFF?style=flat&logo=dotnet&logoColor=white" alt="C# Algorithms" />
   <img src="https://img.shields.io/badge/Bioinformatics-FASTA_Sequence_Analysis-006AFF?style=flat&logo=python&logoColor=white" alt="Python Bioinformatics" />
-  <img src="https://img.shields.io/badge/Frontend_Engineering-Type--Safe_Component_UIs-006AFF?style=flat&logo=typescript&logoColor=white" alt="Type-Safe UI" />
+  <img src="https://img.shields.io/badge/Information_Architecture-Data_Mapping_%26_Object_Relational_Structures-006AFF?style=flat&logo=typescript&logoColor=white" alt="TypeScript Data Architecture" />
 </p>
 <!-- Prussian theme is also nice -->
 
