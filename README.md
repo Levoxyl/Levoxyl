@@ -81,7 +81,7 @@
 <!--   Badges    -->
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Memory Managment and Memory Allocation through RAII - AdressSanitizer with C++-blue&logo=cpp&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Memory_Safety-RAII_%7C_AddressSanitizer-006AFF?style=flat&logo=cplusplus&logoColor=white" alt="C++ Memory Safety" />
   <img src="https://img.shields.io/badge/-blue&logo=cs&logoColor=white" alt="C# />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
