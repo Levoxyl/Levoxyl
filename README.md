@@ -120,11 +120,14 @@ HTML         0 secs                ░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+
+
+<p align="center">
+  <img src="Screenshot_101.png" alt="Animated Banner" width="60%" />
+</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Levoxyl&color=006AFF&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </p>
 
-<p align="center">
-  <img src="Screenshot_101.png" alt="Animated Banner" width="100%" />
-</p>
 
