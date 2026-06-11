@@ -16,7 +16,7 @@ jobs:
           filename: github-metrics.svg
           config_output: svg
           user: Levoxyl
-          template: classic
+          template: terminal
           config_timezone: Europe/Sofia
           
           # Plugins
