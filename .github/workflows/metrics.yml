@@ -32,4 +32,4 @@ jobs:
           
           plugin_fortune: yes
           
-          config_order: leetcode.solved, rss, languages
+          config_order: leetcode.solved, rss
