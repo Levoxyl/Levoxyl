@@ -57,7 +57,7 @@
 <!--   Core stats(Grade) and Language summary     -->
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Levoxyl&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e&show_icons=true&count_private=true&include_all_commits=true" alt="Levoxyl Core Stats" width="515" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Levoxyl&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e&show_icons=true&count_private=true&include_all_commits=true&v=2" alt="Levoxyl Core Stats" width="515" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Levoxyl&theme=transparent&v=2" alt="Levoxyl Top Languages" width="315" />
 </p>
 
@@ -65,7 +65,7 @@
 <!--   Trophies  ,GitHub Streak and Total Contributions   -->
 
 <p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Levoxyl&theme=tokyonight&no-bg=true&no-frame=true&column=4&v=2" alt="Levoxyl Trophies" width="365" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Levoxyl&theme=tokyonight&no-bg=true&no-frame=true&column=4" alt="Levoxyl Trophies" width="365" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=transparent" alt="Levoxyl GitHub Streak" width="435" />
 </p>
 
