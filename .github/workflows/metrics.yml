@@ -17,13 +17,10 @@ jobs:
           filename: github-metrics.svg
           config_output: svg
           user: Levoxyl
-          template: terminal
+          template: repository
           config_timezone: Europe/Sofia
           
           # Plugins
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_colors: github
           
           plugin_leetcode: yes
           plugin_leetcode_user: jaranaharbakar
