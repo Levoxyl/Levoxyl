@@ -18,11 +18,11 @@ jobs:
           config_output: svg
           user: Levoxyl
           template: repository
-          base: ""
-          config_timezone: Europe/Sofia
+          
+          # Force empty base
+          base: "" 
           
           # Plugins
-          
           plugin_leetcode: yes
           plugin_leetcode_user: jaranaharbakar
           plugin_leetcode_sections: solved
@@ -31,6 +31,9 @@ jobs:
           plugin_rss_limit: 4
           plugin_rss_source: https://phys.org/rss-feed/breaking/physics-news/quantum-physics/
           
-          plugin_fortune: yes
+          # REMOVE plugin_fortune: yes entirely
           
           config_order: leetcode.solved, rss
+          
+          # Optimization
+          config_timezone: Europe/Sofia
