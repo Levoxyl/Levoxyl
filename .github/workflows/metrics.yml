@@ -22,6 +22,7 @@ jobs:
           # Force empty base
           base: "" 
           base_skip: "activity, community, repositories, metadata"
+          config_base: ""
           
           # Plugins
           plugin_leetcode: yes
