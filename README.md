@@ -74,7 +74,7 @@
 <p align="center">  
   <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Levoxyl&repo=HackerVisual&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e" alt="Project Spotlight" />
 
-![Metrics](github-metrics.svg)
+![Metrics](https://github.com/Levoxyl/Levoxyl/blob/main/github-metrics.svg?raw=true)
 
 
 <!--   Badges    -->
