@@ -19,6 +19,8 @@ jobs:
           
           # Template settings
           template: markdown
+
+          markdown: https://raw.githubusercontent.com/lowlighter/metrics/master/source/templates/markdown/example.md
           
           # ESSENTIAL: Disable ALL base fetching to prevent hangs
           base: ""
