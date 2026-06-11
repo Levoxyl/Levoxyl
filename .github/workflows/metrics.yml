@@ -14,15 +14,9 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          # Use .md extension for markdown output
-          filename: github-metrics.md 
-          
-          # Template settings
-          template: markdown
+          filename: github-metrics.svg
+          template: compact
 
-          markdown: metrics.template.md
-          
-          # ESSENTIAL: Disable ALL base fetching to prevent hangs
           base: ""
           base_skip: "all"
           
