@@ -17,11 +17,10 @@ jobs:
           filename: github-metrics.svg
           config_output: svg
           user: Levoxyl
-          template: repository
+          template: markdown
           
           # Force empty base
           base: "" 
-          base_skip: "all"
           
           # Plugins
           plugin_leetcode: yes
