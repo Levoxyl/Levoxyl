@@ -76,7 +76,7 @@
 
   <!-- MEtrics -->
 <p align="center">
-  <img src="https://github.com/Levoxyl/Levoxyl/blob/main/github-metrics.svg?raw=true" alt="Metrics" />
+  <img src="https://github.com/Levoxyl/Levoxyl/blob/main/github-metrics.md?raw=true" alt="Metrics" />
 </p>
 
 
