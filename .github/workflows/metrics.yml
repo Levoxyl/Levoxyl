@@ -14,13 +14,14 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          filename: github-metrics.svg
-          config_output: svg
-          user: Levoxyl
+          # Use .md extension for markdown output
+          filename: github-metrics.md 
+          
+          # Template settings
           template: markdown
           
-          # Force empty base
-          base: "" 
+          # ESSENTIAL: Disable ALL base fetching to prevent hangs
+          base: ""
           base_skip: "all"
           
           # Plugins
@@ -32,9 +33,5 @@ jobs:
           plugin_rss_limit: 4
           plugin_rss_source: https://phys.org/rss-feed/breaking/physics-news/quantum-physics/
           
-          # REMOVE plugin_fortune: yes entirely
-          
+          # Keep your order
           config_order: leetcode.solved, rss
-          
-          # Optimization
-          config_timezone: Europe/Sofia
