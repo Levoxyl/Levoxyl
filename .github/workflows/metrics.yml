@@ -18,6 +18,7 @@ jobs:
           config_output: svg
           user: Levoxyl
           template: repository
+          base: ""
           config_timezone: Europe/Sofia
           
           # Plugins
