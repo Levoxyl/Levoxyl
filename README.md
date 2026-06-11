@@ -57,8 +57,8 @@
 <!--   Core stats(Grade) and Language summary     -->
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Levoxyl&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e&show_icons=true&count_private=true&include_all_commits=true&version=2&hide_rank=true" alt="Levoxyl Core Stats" width="415" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Levoxyl&theme=transparent&v=2" alt="Levoxyl Top Languages" width="415" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Levoxyl&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e&show_icons=true&count_private=true&include_all_commits=true&version=2&hide_rank=true" alt="Levoxyl Core Stats" width="430" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Levoxyl&theme=transparent&v=2" alt="Levoxyl Top Languages" width="430" />
 </p>
 
 
