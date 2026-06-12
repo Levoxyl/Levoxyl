@@ -80,6 +80,8 @@
   
 [![LeetCode Trophy](https://github-profile-trophy.vercel.app/?username=jaranaharbakar&theme=darkhub&no-bg=true&column=1&no-frame=true&margin-w=0&margin-h=0)](https://leetcode.com/jaranaharbakar/)
 
+[![LeetCode Solved](https://img.shields.io/endpoint?url=https://runkit.io/jaranaharbakar/leetcode/branches/master?username=jaranaharbakar&logo=leetcode&label=Solved&style=flat-square&color=blue)](https://leetcode.com/u/jaranaharbakar/)
+
 <!--   Badges    -->
 </p>
 <p align="center">
