@@ -1,0 +1,16 @@
+name: Latest Quantum Physics News
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs once daily
+  workflow_dispatch:      # Allows manual trigger
+permissions:
+  contents: write         # Required to update your README
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://phys.org/rss-feed/breaking/physics-news/quantum-physics/"
+          max_post_count: 5
