@@ -73,11 +73,9 @@
 <!--  Project Highlights   -->
 <p align="center">  
   <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Levoxyl&repo=HackerVisual&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e" alt="Project Spotlight" />
-
-### ⚛️ Physics News
-[Latest Quantum Physics Updates]([https://phys.org/physics-news/quantum-physics/](https://phys.org/rss-feed/breaking/physics-news/quantum-physics/))
-### 💻 LeetCode Profile
-[![LeetCode](https://img.shields.io/badge/LeetCode-jaranaharbakar-orange?logo=leetcode)](https://leetcode.com/u/jaranaharbakar/)
+### ⚛️ Latest Quantum Physics News
+### 💻 LeetCode Progress
+![My LeetCode Stats](leetcode.png)
 
 <!--   Badges    -->
 </p>
