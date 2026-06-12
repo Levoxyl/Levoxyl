@@ -69,16 +69,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=transparent" alt="Levoxyl GitHub Streak" width="435" />
 </p>
 
+<!-- Leetcode --> 
+<p align="center">  
+  <img src="https://leetcard.jacoblin.cool/jaranaharbakar?theme=dark&font=calibri&ext=activity" width="550" alt="Leetcode" />
+</p>
 
 <!--  Project Highlights   -->
 <p align="center">  
   <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Levoxyl&repo=HackerVisual&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e" alt="Project Spotlight" />
 </p>
 
-<!-- Leetcode --> 
-<p align="center">  
-  <img src="https://leetcard.jacoblin.cool/jaranaharbakar?theme=dark&font=calibri&ext=activity" width="550" alt="Leetcode" />
-</p>
+
 <!--   Badges    -->
 
 <p align="center">
