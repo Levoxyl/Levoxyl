@@ -74,7 +74,7 @@
 <p align="center">  
   <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Levoxyl&repo=HackerVisual&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e" alt="Project Spotlight" />
 
-![Levoxyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Levoxyl&show_icons=true&theme=radical)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=jaranaharbakar)
 
 
 <!--   Badges    -->
