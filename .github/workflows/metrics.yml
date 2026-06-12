@@ -19,6 +19,7 @@ jobs:
 
           base: ""
           base_skip: "all"
+          repositories: 0
           
           # Plugins
           plugin_leetcode: yes
