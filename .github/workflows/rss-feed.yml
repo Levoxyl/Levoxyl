@@ -11,6 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
+        env:
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # Silences the warning
         with:
           feed_list: "https://phys.org/rss-feed/breaking/physics-news/quantum-physics/"
-          max_post_count: 5
