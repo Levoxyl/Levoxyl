@@ -71,7 +71,7 @@
 
 <!-- Leetcode --> 
 <p align="center">  
-  <img src="https://leetcard.jacoblin.cool/jaranaharbakar?theme=dark&font=calibri&ext=activity&border=0&radius=10" width="550" alt="Leetcode" />
+  <img src="https://leetcard.jacoblin.cool/jaranaharbakar?background=0D1117&font=calibri&ext=activity&border=0&radius=10" width="550" alt="Leetcode" />
 </p>
 
 <!--  Project Highlights   -->
