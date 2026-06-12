@@ -75,7 +75,7 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Levoxyl&repo=HackerVisual&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e" alt="Project Spotlight" />
 
   
-[![Quantum Physics News](https://rss2img.vercel.app/api?url=https://phys.org/rss-feed/breaking/physics-news/quantum-physics/&max=5)](https://phys.org/physics-news/quantum-physics/)
+[![Quantum Physics News](https://rss2img.vercel.app/api?url=https://phys.org/rss-feed/breaking/physics-news/quantum-physics/&max=5)](https://phys.org/)
 
 
 [![LeetCode Solved](https://img.shields.io/endpoint?url=https://runkit.io/jaranaharbakar/leetcode/branches/master?username=jaranaharbakar&logo=leetcode&label=Solved&style=flat-square&color=blue)](https://leetcode.com/u/jaranaharbakar/)
