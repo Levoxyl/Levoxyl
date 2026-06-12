@@ -66,12 +66,12 @@
 
 <p align="center">
   <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Levoxyl&theme=tokyonight&no-bg=true&no-frame=true&column=4&version=2" alt="Levoxyl Trophies" width="365" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=transparent&no-frame=true" alt="Levoxyl GitHub Streak" width="435" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=transparent&hide_border=true" alt="Levoxyl GitHub Streak" width="435" />
 </p>
 
 <!-- Leetcode --> 
 <p align="center">  
-  <img src="https://leetcard.jacoblin.cool/jaranaharbakar?theme=transparent&font=calibri&ext=activity" width="550" alt="Leetcode" />
+  <img src="https://leetcard.jacoblin.cool/jaranaharbakar?theme=dark&font=calibri&ext=activity&border=0&radius=10" width="550" alt="Leetcode" />
 </p>
 
 <!--  Project Highlights   -->
