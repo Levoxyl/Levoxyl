@@ -78,8 +78,7 @@
 ### ⚛️ Latest Quantum Physics News
 
   
-### 💻 LeetCode Progress
-![My LeetCode Stats](leetcode.png)
+[![LeetCode Trophy](https://github-profile-trophy.vercel.app/?username=jaranaharbakar&theme=darkhub&no-bg=true&column=1&no-frame=true&margin-w=0&margin-h=0)](https://leetcode.com/jaranaharbakar/)
 
 <!--   Badges    -->
 </p>
