@@ -77,7 +77,7 @@
 
 <!-- Leetcode --> 
 <p align="center">  
-  <img src="https://leetcard.jacoblin.cool/jaranaharbakar?theme=dark&font=calibri&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/jaranaharbakar?theme=dark&font=calibri&ext=activity" />
 </p>
 <!--   Badges    -->
 
