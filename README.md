@@ -73,18 +73,14 @@
 <!--  Project Highlights   -->
 <p align="center">  
   <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Levoxyl&repo=HackerVisual&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e" alt="Project Spotlight" />
-
-  
-### ⚛️ Latest Quantum Physics News
-[![Quantum Physics News](https://rss2img.vercel.app/api?url=https://phys.org/rss-feed/breaking/physics-news/quantum-physics/&max=5)](https://phys.org/rss-feed/breaking/physics-news/quantum-physics/)
-[![LeetCode Solved](https://img.shields.io/endpoint?url=https://runkit.io/jaranaharbakar/leetcode/branches/master?username=jaranaharbakar&logo=leetcode&label=Solved&style=flat-square&color=blue)](https://leetcode.com/u/jaranaharbakar/)
-
-activity
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/jaranaharbakar?theme=dark&font=avenir&ext=activity)
-
-<!--   Badges    -->
 </p>
+
+<!-- Leetcode --> 
+<p align="center">  
+  <img src="https://leetcard.jacoblin.cool/jaranaharbakar?theme=dark&font=avenir&ext=activity" />
+</p>
+<!--   Badges    -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/Memory_Safety-RAII_%7C_AddressSanitizer-006AFF?style=flat&logo=cplusplus&logoColor=white" alt="C++ Memory Safety" />
   <img src="https://img.shields.io/badge/Discrete_Mathematics-Numerical_Algorithms_in_C%23-006AFF?style=flat&logo=dotnet&logoColor=white" alt="C# Algorithms" />
