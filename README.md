@@ -82,6 +82,8 @@
 
 [![LeetCode Solved](https://img.shields.io/endpoint?url=https://runkit.io/jaranaharbakar/leetcode/branches/master?username=jaranaharbakar&logo=leetcode&label=Solved&style=flat-square&color=blue)](https://leetcode.com/u/jaranaharbakar/)
 
+activity
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jaranaharbakar?theme=dark&font=avenir&ext=activity)
 
 <!--   Badges    -->
