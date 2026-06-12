@@ -74,6 +74,8 @@
 <p align="center">  
   <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Levoxyl&repo=HackerVisual&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e" alt="Project Spotlight" />
 ### ⚛️ Latest Quantum Physics News
+
+  
 ### 💻 LeetCode Progress
 ![My LeetCode Stats](leetcode.png)
 
