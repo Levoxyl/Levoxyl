@@ -65,7 +65,7 @@
 <!--   Trophies  ,GitHub Streak and Total Contributions   -->
 
 <p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Levoxyl&theme=tokyonight&no-bg=true&no-frame=true&column=4&version=2" alt="Levoxyl Trophies" width="365" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Levoxyl&theme=tokyonight&no-bg=true&no-frame=true&column=4" alt="Levoxyl Trophies" width="365" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=transparent&hide_border=true&stroke=0D1117" alt="Levoxyl GitHub Streak" width="435" />
 </p>
 
