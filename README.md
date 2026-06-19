@@ -79,7 +79,7 @@
 ## 🎭 Project highlights 
 <p align="center">  
   <a href="https://github.com/Levoxyl/AetherUI">
-    <img width="70%" alt="repo1Spot2" src="https://github.com/user-attachments/assets/07431b5d-3558-4ad0-801e-d3f4e73dd03d" />
+    <img width="50%" alt="repo1Spot2" src="https://github.com/user-attachments/assets/07431b5d-3558-4ad0-801e-d3f4e73dd03d" />
     <!-- <img width="90%" alt="Untitled design" src="https://github.com/user-attachments/assets/dcc6899f-435f-49dc-94cc-a57eacb9e6c2" /> -->
     <!-- <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Levoxyl&repo=HackerVisual&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e&v=2" alt="Project Spotlight" /> -->
   </a>
