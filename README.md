@@ -74,18 +74,16 @@
   <img src="https://leetcard.jacoblin.cool/jaranaharbakar?colors=0D1117,0D1117,006AFF,006AFF,00e676,ff9100,ff3d00,f0f0f0&font=calibri&ext=activity&border=0&radius=10" width="550" alt="Leetcode" />
 </p>
 
+
 <!--  Project Highlights   -->
+## 🎭 Project highlights 
 <p align="center">  
   <a href="https://github.com/Levoxyl/AetherUI">
-    <img width="80%" alt="repo1Spot2" src="https://github.com/user-attachments/assets/07431b5d-3558-4ad0-801e-d3f4e73dd03d" />
+    <img width="70%" alt="repo1Spot2" src="https://github.com/user-attachments/assets/07431b5d-3558-4ad0-801e-d3f4e73dd03d" />
     <!-- <img width="90%" alt="Untitled design" src="https://github.com/user-attachments/assets/dcc6899f-435f-49dc-94cc-a57eacb9e6c2" /> -->
     <!-- <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Levoxyl&repo=HackerVisual&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e&v=2" alt="Project Spotlight" /> -->
   </a>
 </p>
-
-
-
-
 
 
 <!--   Badges    -->
