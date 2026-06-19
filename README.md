@@ -77,7 +77,7 @@
 <!--  Project Highlights   -->
 <p align="center">  
   <a href="https://github.com/Levoxyl/AetherUI">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Levoxyl&repo=HackerVisual&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e" alt="Project Spotlight" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Levoxyl&repo=HackerVisual&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e&v=2" alt="Project Spotlight" />
   </a>
 </p>
 
