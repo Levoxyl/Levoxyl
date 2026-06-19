@@ -32,9 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VSCode" width="40" height="40"/>
 </p>
 
-## 💻 Languages
-
-<p align="left">
+<!--Languages
+ <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -42,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-</p>
+</p> -->
 
 
 ## 📊 GitHub Stats
@@ -79,7 +78,8 @@
 ## 🎭 Project highlights 
 <p align="center">  
   <a href="https://github.com/Levoxyl/AetherUI">
-    <img width="50%" alt="repo1Spot2" src="https://github.com/user-attachments/assets/07431b5d-3558-4ad0-801e-d3f4e73dd03d" />
+    <img width="774" height="660" alt="Untitled design" src="https://github.com/user-attachments/assets/63363e1b-5c8b-4661-bcf8-c49c4e2def4e" />
+    <!-- <img width="50%" alt="repo1Spot2" src="https://github.com/user-attachments/assets/07431b5d-3558-4ad0-801e-d3f4e73dd03d" /> -->
     <!-- <img width="90%" alt="Untitled design" src="https://github.com/user-attachments/assets/dcc6899f-435f-49dc-94cc-a57eacb9e6c2" /> -->
     <!-- <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Levoxyl&repo=HackerVisual&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e&v=2" alt="Project Spotlight" /> -->
   </a>
