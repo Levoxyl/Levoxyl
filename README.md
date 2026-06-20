@@ -12,7 +12,7 @@
 ## 🧠 Tech Background
 
 👷 Independent Software Contractor **5y** | Freelancer at an Italian-Bulgarian company **1y**  
-👨‍🎓 Graduated from a profesional school with programming with **hands-on projects and industrial practice** at [Melexis](https://www.melexis.com/) , [Schwarz IT](https://www.schwarz-it.com/en/) , [A1](https://www.a1.bg/bg)  
+👨‍🎓 Graduated from a profesional school as a Software Developer| **Hands-on projects and industrial practice** at [Melexis](https://www.melexis.com/) , [Schwarz IT](https://www.schwarz-it.com/en/) , [A1](https://www.a1.bg/bg)  
 🛠️ Hobbying with game dev and blackboxing   
 💻 Currently exploring: 
 &nbsp;
