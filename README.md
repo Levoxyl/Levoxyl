@@ -71,8 +71,12 @@
 <!--  Project Highlights   -->
 ## 🎭 Project highlights 
 <p align="center">  
-    <img width="40%" alt="CTM" src="https://github.com/user-attachments/assets/99bc6153-51cc-43c8-8b23-58167096cb54" href="https://github.com/Levoxyl/CTM" />
-    <img width="40%" alt="AetherUI" src="https://github.com/user-attachments/assets/fef2867f-e2f6-4846-87f1-822b9e6c7c97" href="https://github.com/Levoxyl/AetherUI"/>
+  <a href="https://github.com/Levoxyl/CTM">
+    <img width="40%" alt="CTM" src="https://github.com/user-attachments/assets/99bc6153-51cc-43c8-8b23-58167096cb54"  />
+  </a>
+  <a  href="https://github.com/Levoxyl/AetherUI">
+    <img width="40%" alt="AetherUI" src="https://github.com/user-attachments/assets/fef2867f-e2f6-4846-87f1-822b9e6c7c97"/>
+  </a>
     <!-- <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Levoxyl&repo=HackerVisual&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e&v=2" alt="Project Spotlight" /> -->
 </p>
 
