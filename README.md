@@ -11,10 +11,10 @@
 
 ## 🧠 Tech Background
 
-👷 Independent Software Contractor **5y** | Freelancer at an Italian-Bulgarian company **1y**
-👨‍🎓 Graduated from a profesional school with programming with **hands-on projects and industrial practice** at [Melexis](https://www.melexis.com/) , [Schwarz IT](https://www.schwarz-it.com/en/) , [A1](https://www.a1.bg/bg)
-🛠️ Hobbying with game dev and blackboxing 
-💻 Currently exploring:
+👷 Independent Software Contractor **5y** | Freelancer at an Italian-Bulgarian company **1y**  
+👨‍🎓 Graduated from a profesional school with programming with **hands-on projects and industrial practice** at [Melexis](https://www.melexis.com/) , [Schwarz IT](https://www.schwarz-it.com/en/) , [A1](https://www.a1.bg/bg)  
+🛠️ Hobbying with game dev and blackboxing   
+💻 Currently exploring: 
 &nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz3XWYKu_vwhT-kwB_3GYLfw7OHWwzMO2VPw&s" alt="Kali Linux" height="25"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s" alt="Hack The Box" height="25"/>
@@ -30,23 +30,16 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/OpenSUSE_Logo.svg" title="openSUSE" alt="openSUSE" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
   <img src="https://www.meteobridge.com/wiki/images/7/77/Vmware-logo.png?20241204132515" title="VMware" alt="VMware" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VSCode" width="40" height="40"/>
-</p>
-
-<!--Languages
- <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-</p> -->
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzemPW2zVigKv44mjIDfGwrf_Rgzcyu07m_A&s" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+  <img src="https://static.cdnlogo.com/logos/r/85/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://www.clipartmax.com/png/middle/450-4502990_prometheus-logo-logo-prometheus-monitoring.png" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/2fb47a74-2aaa-4151-8713-182533bf07ed" title="OWASP" alt="OWASP" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/43272913?s=280&v=4" title="MITRE ATT&CK" alt="MITRE ATT&CK" width="40" height="40"/>&nbsp;
+  <img src="https://www.pngfind.com/pngs/m/255-2553250_icon-docker-notext-color-docker-icon-png-transparent.png" title="MITRE ATT&CK" alt="MITRE ATT&CK" width="40" height="40"/>&nbsp;
+</p>  
+  
 ## 📊 GitHub Stats
-
 
 <!--    Graph   h=195  -->
 
