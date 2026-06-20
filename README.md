@@ -11,8 +11,9 @@
 
 ## 🧠 Tech Background
 
-👨‍🎓 Graduated from a profesional school with programming |  **5 years of hands-on projects and industrial practice** at [Melexis](https://www.melexis.com/) and [Schwarz IT](https://www.schwarz-it.com/en/).  
-🛠️ Hobbying with low-level code, game dev, and embedded systems.  
+👷 Independent Software Contractor **5y** | Freelancer at an Italian-Bulgarian company **1y**
+👨‍🎓 Graduated from a profesional school with programming with **hands-on projects and industrial practice** at [Melexis](https://www.melexis.com/) , [Schwarz IT](https://www.schwarz-it.com/en/) , [A1](https://www.a1.bg/bg)
+🛠️ Hobbying with game dev and blackboxing 
 💻 Currently exploring:
 &nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz3XWYKu_vwhT-kwB_3GYLfw7OHWwzMO2VPw&s" alt="Kali Linux" height="25"/>
