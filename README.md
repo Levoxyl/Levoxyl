@@ -64,7 +64,7 @@
 
 <!-- Leetcode --> 
 <p align="center">  
-  <img src="https://leetcard.jacoblin.cool/jaranaharbakar?colors=0D1117,0D1117,006AFF,006AFF,00e676,ff9100,ff3d00,f0f0f0&font=calibri&ext=activity&border=0&radius=10" width="550" alt="Leetcode" />
+  <img src="https://leetcard.jacoblin.cool/Levoxyl?colors=0D1117,0D1117,006AFF,006AFF,00e676,ff9100,ff3d00,f0f0f0&font=calibri&ext=activity&border=0&radius=10" width="550" alt="Leetcode" />
 </p>
 
 
