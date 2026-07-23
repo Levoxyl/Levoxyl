@@ -20,6 +20,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: leetcode-metrics.svg
+          token: NOT_NEEDED
+          plugin_leetcode: yes
+          plugin_leetcode_user: Levoxyl
+          plugin_leetcode_sections: solved, recent
           
       - name: Commit and Push generated cards
         run: |
