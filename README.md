@@ -50,17 +50,16 @@
 
 <!-- Core Stats (Grade) and Language Summary -->
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Levoxyl&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true" alt="Levoxyl Core Stats" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Levoxyl&theme=transparent" alt="Levoxyl Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Levoxyl&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true" alt="Levoxyl Core Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levoxyl&layout=compact&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e" alt="Levoxyl Top Languages" width="400" />
 </p>
 
 <!-- Trophies & GitHub Streak -->
 <p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Levoxyl&theme=tokyonight&no-bg=true&no-frame=true&column=4&v=2" alt="Levoxyl Trophies" width="365" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=transparent&hide_border=true&stroke=0D1117&v=2" alt="Levoxyl GitHub Streak" width="435" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Levoxyl&theme=tokyonight&no-bg=true&no-frame=true&column=4" alt="Levoxyl Trophies" width="365" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=transparent&hide_border=true&stroke=0D1117" alt="Levoxyl GitHub Streak" width="435" />
 </p>
 
-<!-- OG --> 
 
 
 <!-- LeetCode --> 
