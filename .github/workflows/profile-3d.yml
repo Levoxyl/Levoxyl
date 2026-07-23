@@ -20,6 +20,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          YEAR: 2026
           
       - name: Commit & Push generated 3D SVGs
         run: |
