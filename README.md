@@ -41,40 +41,35 @@
   
 ## 📊 GitHub Stats
 
-<!-- Custom Readme -->
+<!-- 🏆 GitHub Trophies (Working Mirror Endpoint) -->
+<p align="center">
+  <img src="https://github-profile-trophy-alpha.vercel.app/?username=Levoxyl&theme=tokyonight&no-bg=true&no-frame=true&column=6&margin-w=10" alt="Levoxyl Trophies" width="950" />
+</p>
 
+<!-- Profile Summary Cards (Local Action - 100% Uptime) -->
 <p align="center">
   <img src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details" width="950" />
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Most Used Languages" width="400" />
-  <img src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Repos Per Language" width="400" />
+  <img src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Most Used Languages" width="450" />
+  <img src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Repos Per Language" width="450" />
 </p>
 
-
-<!-- Contribution Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Levoxyl&theme=tokyonight&bg_color=00000000&hide_border=true&color=006AFF" alt="Levoxyl GitHub Stats" width="950" />
+  <img src="./profile-summary-card-output/transparent/3-stats.svg" alt="Commit Stats" width="450" />
+  <img src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive Hours Heatmap" width="450" />
 </p>
 
-<!-- Core Stats (Grade) and Language Summary (Your Private Vercel Instance) -->
+<!-- Contribution Activity Graph (Fixed with custom_title) -->
 <p align="center">
-  <img src="https://github-readme-stats-gamma-khaki-66.vercel.app/api?username=Levoxyl&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true" alt="Levoxyl Core Stats" width="400" />
-  <img src="https://github-readme-stats-gamma-khaki-66.vercel.app/api/top-langs/?username=Levoxyl&layout=compact&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e" alt="Levoxyl Top Languages" width="400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Levoxyl&custom_title=Contribution%20Graph&theme=tokyonight&bg_color=00000000&hide_border=true&color=006AFF" alt="Levoxyl Activity Graph" width="950" />
 </p>
 
-<!-- Trophies & GitHub Streak -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Levoxyl&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=15" alt="Levoxyl Trophies" width="365" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=transparent&hide_border=true&stroke=0D1117" alt="Levoxyl GitHub Streak" width="435" />
-</p>
-
-<!-- LeetCode --> 
+<!-- LeetCode Card -->
 <p align="center">  
   <img src="https://leetcard.jacoblin.cool/Levoxyl?colors=0D1117,0D1117,006AFF,006AFF,00e676,ff9100,ff3d00,f0f0f0&font=calibri&ext=activity&border=0&radius=10" width="550" alt="LeetCode Stats" />
 </p>
-
 
 ## 🎭 Project Highlights 
 <p align="center">  
