@@ -71,6 +71,12 @@
   <img src="https://leetcard.jacoblin.cool/Levoxyl?colors=0D1117,0D1117,006AFF,006AFF,00e676,ff9100,ff3d00,f0f0f0&font=calibri&ext=activity&border=0&radius=10" width="550" alt="LeetCode Stats" />
 </p>
 
+<!-- 3D -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Isometric Contribution Graph" width="950" />
+</p>
+
+
 ## 🎭 Project Highlights 
 <p align="center">  
   <a href="https://github.com/Levoxyl/CTM">
