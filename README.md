@@ -41,6 +41,18 @@
   
 ## 📊 GitHub Stats
 
+<!-- Custom Readme -->
+
+<p align="center">
+  <img src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details" width="950" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Most Used Languages" width="400" />
+  <img src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Repos Per Language" width="400" />
+</p>
+
+
 <!-- Contribution Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Levoxyl&theme=tokyonight&bg_color=00000000&hide_border=true&color=006AFF" alt="Levoxyl GitHub Stats" width="950" />
