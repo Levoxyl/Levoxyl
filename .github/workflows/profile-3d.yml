@@ -2,7 +2,7 @@ name: GitHub 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -11,13 +11,17 @@ jobs:
     name: generate-3d-graph
     permissions:
       contents: write
+      
     steps:
       - uses: actions/checkout@v4
-      - uses: yoshi38610/github-profile-3d-contrib@0.7.2
+      
+      # Fixed the action author below (yoshi389111):
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.2
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+          
+      - name: Commit & Push generated 3D SVGs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
