@@ -43,8 +43,12 @@
 
 <!--    Graph   h=195  -->
 
+<!-- <p align="center">
+    <img src="https://gitblock.cn.vercel.app/api/cards/profile-details?username=Levoxyl&theme=transparent&v=2" alt="Levoxyl GitHub Stats" width="950" />
+</p>    -->
+   
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Levoxyl&theme=transparent&v=2" alt="Levoxyl GitHub Stats" width="950" />
+    <img src="https://gitblock.cn" alt="Levoxyl GitHub Stats" width="950" />
 </p> 
 
 <!--   Core stats(Grade) and Language summary     -->
