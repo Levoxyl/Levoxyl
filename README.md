@@ -41,20 +41,17 @@
   
 ## 📊 GitHub Stats
 
-<!-- 🏆 GitHub Trophies (Working Mirror Endpoint) -->
-<p align="center">
-  <img src="https://github-profile-trophy-alpha.vercel.app/?username=Levoxyl&theme=tokyonight&no-bg=true&no-frame=true&column=6&margin-w=10" alt="Levoxyl Trophies" width="950" />
-</p>
+
 
 <!-- Profile Summary Cards (Local Action - 100% Uptime) -->
 <p align="center">
   <img src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details" width="950" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Most Used Languages" width="450" />
   <img src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Repos Per Language" width="450" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="./profile-summary-card-output/transparent/3-stats.svg" alt="Commit Stats" width="450" />
@@ -66,9 +63,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Levoxyl&custom_title=Contribution%20Graph&theme=tokyonight&bg_color=00000000&hide_border=true&color=006AFF" alt="Levoxyl Activity Graph" width="950" />
 </p>
 
-<!-- LeetCode Card -->
-<p align="center">  
-  <img src="https://leetcard.jacoblin.cool/Levoxyl?colors=0D1117,0D1117,006AFF,006AFF,00e676,ff9100,ff3d00,f0f0f0&font=calibri&ext=activity&border=0&radius=10" width="550" alt="LeetCode Stats" />
+<!-- 🏆 GitHub Trophies  -->
+<p align="center">
+  <img src="https://github-profile-trophy-alpha.vercel.app/?username=Levoxyl&theme=tokyonight&no-bg=true&no-frame=true&column=8&margin-w=10" alt="Levoxyl Trophies" width="850" />
+ 
+</p>
+
+<!-- 🍃Leetcode -->
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Levoxyl?colors=0D1117,0D1117,006AFF,006AFF,00e676,ff9100,ff3d00,f0f0f0&font=calibri&ext=activity&border=0&radius=10" width="100%" max-width="850" alt="LeetCode Stats" />
 </p>
 
 <!-- 3D -->
