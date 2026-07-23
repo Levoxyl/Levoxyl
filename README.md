@@ -70,9 +70,8 @@
 </p>
 
 <!-- 🍃Leetcode -->
-
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Levoxyl?colors=0D1117,0D1117,006AFF,006AFF,00e676,ff9100,ff3d00,f0f0f0&font=calibri&ext=activity&border=0&radius=10" width="100%" max-width="850" alt="LeetCode Stats" />
+  <img src="./leetcode-metrics.svg" width="650" alt="LeetCode Activity" />
 </p>
 
 <!-- 3D -->
