@@ -41,13 +41,12 @@
   
 ## 📊 GitHub Stats
 
-<!-- 📊 GitHub Stats -->
-<!-- Profile Summary Graph -->
+<!-- Contribution Activity Graph -->
 <p align="center">
-  <img src="https://gitblock.cn.vercel.app/api/cards/profile-details?username=Levoxyl&theme=transparent&v=2" alt="Levoxyl GitHub Stats" width="950" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Levoxyl&theme=tokyonight&bg_color=00000000&hide_border=true&color=006AFF" alt="Levoxyl GitHub Stats" width="950" />
 </p>
 
-<!-- Core Stats (Grade) and Language Summary -->
+<!-- Core Stats (Grade) and Language Summary (Your Private Vercel Instance) -->
 <p align="center">
   <img src="https://github-readme-stats-gamma-khaki-66.vercel.app/api?username=Levoxyl&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true" alt="Levoxyl Core Stats" width="400" />
   <img src="https://github-readme-stats-gamma-khaki-66.vercel.app/api/top-langs/?username=Levoxyl&layout=compact&bg_color=00000000&hide_border=true&title_color=006AFF&text_color=8b949e" alt="Levoxyl Top Languages" width="400" />
@@ -55,7 +54,7 @@
 
 <!-- Trophies & GitHub Streak -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Levoxyl&theme=tokyonight&no-bg=true&no-frame=true&column=4" alt="Levoxyl Trophies" width="365" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Levoxyl&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=15" alt="Levoxyl Trophies" width="365" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levoxyl&theme=transparent&hide_border=true&stroke=0D1117" alt="Levoxyl GitHub Streak" width="435" />
 </p>
 
