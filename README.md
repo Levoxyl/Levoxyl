@@ -1,6 +1,6 @@
 <!-- 🌌 TOP BANNER -->
 <p align="center">
-  <img src="./images/ezgif.com-crop.gif" alt="Animated Banner" width="100%" />
+  <img src="./images/bannerTech.gif" alt="Animated Banner" width="100%" />
 </p>
 
 <p align="center">
