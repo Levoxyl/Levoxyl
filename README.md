@@ -83,10 +83,10 @@
 ## 🎭 Project Highlights 
 <p align="center">  
   <a href="https://github.com/Levoxyl/CTM">
-    <img width="40%" alt="CTM" src="https://github.com/user-attachments/assets/99bc6153-51cc-43c8-8b23-58167096cb54" />
+    <img width="48%" alt="CTM" src="./repo-ctm.svg" />
   </a>
   <a href="https://github.com/Levoxyl/AetherUI">
-    <img width="40%" alt="AetherUI" src="https://github.com/user-attachments/assets/fef2867f-e2f6-4846-87f1-822b9e6c7c97"/>
+    <img width="48%" alt="AetherUI" src="./repo-aetherui.svg" />
   </a>
 </p>
 
