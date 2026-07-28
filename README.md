@@ -54,8 +54,8 @@
 </p> -->
 
 <p align="center">
-  <img src="./profile-summary-card-output/transparent/3-stats.svg" alt="Commit Stats" width="450" />
-  <img src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive Hours Heatmap" width="450" />
+  <img src="./profile-summary-card-output/transparent/3-stats.svg" alt="Commit Stats" width="350" />
+  <img src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive Hours Heatmap" width="350" />
 </p>
 
 <!-- Contribution Activity Graph (Fixed with custom_title) -->
@@ -74,9 +74,9 @@
   <img src="./leetcode-metrics.svg" width="600" alt="LeetCode Activity" />
 </p>
 
-<!-- 3D -->
+<!-- 🔳 3D -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Isometric Contribution Graph" width="950" />
+  <img src="./profile-3d-contrib/profile-2026.svg" alt="2026 3D Contribution Graph" width="950" />
 </p>
 
 
