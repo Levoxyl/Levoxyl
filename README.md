@@ -70,14 +70,23 @@
 
 ## 🎭 Project Highlights 
 
-<p align="center">  
-  <a href="https://github.com/Levoxyl/CTM">
-    <img width="48%" alt="CTM" src="./images/repo-ctm.svg" />
-  </a>
-  <a href="https://github.com/Levoxyl/AetherUI">
-    <img width="48%" alt="AetherUI" src="./images/repo-aetherui.svg" />
-  </a>
-</p>
+## 🎭 Project Highlights
+
+<div align="center">
+  <table border="0" style="border: none; background: transparent;">
+    <tr style="background: transparent;">
+      <td align="center" style="border: none; background: radial-gradient(circle at 50% 0%, rgba(0, 106, 255, 0.35) 0%, rgba(13, 17, 23, 0.95) 70%); padding: 30px 15px 15px 15px; border-radius: 12px; box-shadow: inset 0 2px 15px rgba(0, 106, 255, 0.2);">
+        <a href="https://github.com/Levoxyl/CTM">
+          <img width="420" alt="CTM" src="./images/repo-ctm.svg" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/Levoxyl/AetherUI">
+          <img width="420" alt="AetherUI" src="./images/repo-aetherui.svg" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Badges -->
 <p align="center">
