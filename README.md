@@ -44,8 +44,8 @@
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/transparent/3-stats.svg" alt="Commit Stats" width="440" />
-  <img src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive Hours Heatmap" width="440" />
+  <img src="./profile-summary-card-output/transparent/3-stats.svg" alt="Commit Stats" width="430" />
+  <img src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive Hours Heatmap" width="430" />
 </p>
 
 <!-- Contribution Activity Graph -->
