@@ -13,8 +13,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: isometric-contributions.svg
+          filename: images/isometric-contributions.svg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          config_theme: transparent
