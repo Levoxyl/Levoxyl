@@ -1,5 +1,4 @@
 <!-- 🌌 TOP BANNER -->
-
 <p align="center">
   <img src="https://i.ibb.co/KxC2ccLs/ezgif-com-crop.gif" alt="Animated Banner" width="100%" />
 </p>
@@ -7,7 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1000&color=FFF&center=true&vCenter=true&width=500&lines=Full-stack+Mid-Dev;Building+the+future.." alt="Typing SVG" />
 </p>
-
 
 ## 🧠 Tech Background
 
@@ -19,7 +17,6 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz3XWYKu_vwhT-kwB_3GYLfw7OHWwzMO2VPw&s" alt="Kali Linux" height="25"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s" alt="Hack The Box" height="25"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTsRGhVmdMtkHwtkOqYNc1XU8zoJ12BZPv2A&s" alt="Geeks for Geeks" height="25"/>
-
 
 ## 🛠️ Tools
 
@@ -41,55 +38,45 @@
   
 ## 📊 GitHub Stats
 
-
-
-<!-- Profile Summary Cards (Local Action - 100% Uptime) -->
+<!-- Profile Summary Cards (Transparent Theme) -->
 <p align="center">
   <img src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details" width="950" />
 </p>
-
-<!-- <p align="center">
-  <img src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Most Used Languages" width="450" />
-  <img src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Repos Per Language" width="450" />
-</p> -->
 
 <p align="center">
   <img src="./profile-summary-card-output/transparent/3-stats.svg" alt="Commit Stats" width="350" />
   <img src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive Hours Heatmap" width="350" />
 </p>
 
-<!-- Contribution Activity Graph (Fixed with custom_title) -->
+<!-- Contribution Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Levoxyl&custom_title=Contribution%20Graph&theme=tokyonight&bg_color=00000000&hide_border=true&color=006AFF" alt="Levoxyl Activity Graph" width="950" />
 </p>
 
-<!-- 🏆 GitHub Trophies  -->
+<!-- 🏆 GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy-alpha.vercel.app/?username=Levoxyl&theme=tokyonight&no-bg=true&no-frame=true&column=8&margin-w=10" alt="Levoxyl Trophies" width="850" />
- 
 </p>
 
-<!-- 🍃Leetcode -->
+<!-- 🍃 Leetcode -->
 <p align="center">
   <img src="./leetcode-metrics.svg" width="600" alt="LeetCode Activity" />
 </p>
 
-<!-- 🔳 3D -->
+<!-- 🔳 3D Contribution Graph (Transparent Animated View) -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-2026.svg" alt="2026 3D Contribution Graph" width="950" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Isometric Contribution Graph" width="950" />
 </p>
-
 
 ## 🎭 Project Highlights 
 <p align="center">  
   <a href="https://github.com/Levoxyl/CTM">
-    <img width="48%" alt="CTM" src="./repo-ctm.svg" />
+    <img width="48%" alt="CTM" src="https://github-readme-stats.vercel.app/api/pin/?username=Levoxyl&repo=CTM&theme=tokyonight&bg_color=00000000&hide_border=true" />
   </a>
   <a href="https://github.com/Levoxyl/AetherUI">
-    <img width="48%" alt="AetherUI" src="./repo-aetherui.svg" />
+    <img width="48%" alt="AetherUI" src="https://github-readme-stats.vercel.app/api/pin/?username=Levoxyl&repo=AetherUI&theme=tokyonight&bg_color=00000000&hide_border=true" />
   </a>
 </p>
-
 
 <!-- Badges -->
 <p align="center">
