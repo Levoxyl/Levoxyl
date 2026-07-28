@@ -60,7 +60,7 @@
 
 <!-- 🍃 Leetcode -->
 <p align="center">
-  <img src="./leetcode-metrics.svg" width="600" alt="LeetCode Activity" />
+  <img src="./leetcode-metrics.svg" width="800" alt="LeetCode Activity" />
 </p>
 
 <!-- 🔳 3D Contribution Graph (Transparent Animated View) -->
