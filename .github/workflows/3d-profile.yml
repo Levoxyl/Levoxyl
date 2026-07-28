@@ -1,9 +1,12 @@
-name: Generate Isometric Matrix
+name: Generate 3D Profile
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -20,5 +23,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated 3d profile" || exit 0
+          git commit -m "Generated 3D profile SVGs" || exit 0
           git push
