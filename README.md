@@ -14,9 +14,11 @@
 🛠️ Hobbying with game dev and `blackboxing`  
 💻 Currently exploring:  
 &nbsp;
-![Kali Linux](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz3XWYKu_vwhT-kwB_3GYLfw7OHWwzMO2VPw&s)
-![Hack The Box](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s)
-![Geeks for Geeks](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTsRGhVmdMtkHwtkOqYNc1XU8zoJ12BZPv2A&s)
+<p align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz3XWYKu_vwhT-kwB_3GYLfw7OHWwzMO2VPw&s" title="Kali Linux" alt="Kali Linux" height="40" />&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s" title="Hack The Box" alt="HTB" height="40" />&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTsRGhVmdMtkHwtkOqYNc1XU8zoJ12BZPv2A&s" title="GeeksforGeeks" alt="GFG" height="40" />
+</p>
 
 ## 🛠️ Tools
 
@@ -38,14 +40,15 @@
 
 ## 📊 GitHub Stats
 
-<!-- Profile Summary Cards -->
+<!-- Profile Details -->
 <p align="center">
   <img src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details" width="950" />
 </p>
 
+<!-- Side-by-Side Cards (Kept inside 1 single paragraph) -->
 <p align="center">
-  <img src="./profile-summary-card-output/transparent/3-stats.svg" alt="Commit Stats" width="450" />
-  <img src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive Hours Heatmap" width="450" />
+  <img src="./profile-summary-card-output/transparent/3-stats.svg" alt="Commit Stats" width="46%" />
+  <img src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive Hours Heatmap" width="46%" />
 </p>
 
 <!-- Contribution Activity Graph -->
@@ -65,7 +68,7 @@
 
 <!-- 🔳 Isometric Contribution Matrix -->
 <p align="center">
-  <img src="./isometric-contributions.svg" alt="Isometric Contributions" width="950" />
+  <img src="./images/isometric-contributions.svg" alt="Isometric Contributions" width="950" />
 </p>
 
 ## 🎭 Project Highlights 
