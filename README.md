@@ -63,9 +63,9 @@
   <img src="./leetcode-metrics.svg" width="800" alt="LeetCode Activity" />
 </p>
 
-<!-- 🔳 3D Contribution Graph (Transparent Animated View) -->
+<!-- 🔳 3D Contribution Graph (Transparent 2026) -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Isometric Contribution Graph" width="950" />
+  <img src="./profile-3d-contrib/profile-2026-transparent.svg" alt="2026 3D Contribution Graph" width="950" />
 </p>
 
 ## 🎭 Project Highlights 
