@@ -1,6 +1,6 @@
 <!-- 🌌 TOP BANNER -->
 <p align="center">
-  <img src="https://i.ibb.co/KxC2ccLs/ezgif-com-crop.gif" alt="Animated Banner" width="100%" />
+  <img src="./images/ezgif.com-crop.gif" alt="Animated Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -11,41 +11,41 @@
 
 👷 Independent Software Engineer **5y** | Freelancer at an Italian-Bulgarian company as a Full-Stack engineer **1y**  
 👨‍🎓 Graduated from a professional school as a Software Developer | **Hands-on projects and industrial practice** at [Melexis](https://www.melexis.com/), [Schwarz IT](https://www.schwarz-it.com/en/), [A1](https://www.a1.bg/bg)  
-🛠️ Hobbying with game dev and blackboxing   
-💻 Currently exploring: 
+🛠️ Hobbying with game dev and `blackboxing`  
+💻 Currently exploring:  
 &nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz3XWYKu_vwhT-kwB_3GYLfw7OHWwzMO2VPw&s" alt="Kali Linux" height="25"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s" alt="Hack The Box" height="25"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTsRGhVmdMtkHwtkOqYNc1XU8zoJ12BZPv2A&s" alt="Geeks for Geeks" height="25"/>
+![Kali Linux](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz3XWYKu_vwhT-kwB_3GYLfw7OHWwzMO2VPw&s)
+![Hack The Box](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s)
+![Geeks for Geeks](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTsRGhVmdMtkHwtkOqYNc1XU8zoJ12BZPv2A&s)
 
 ## 🛠️ Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows 10" alt="Win10" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" title="Linux Mint" alt="Linux Mint" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/OpenSUSE_Logo.svg" title="openSUSE" alt="openSUSE" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
-  <img src="https://www.meteobridge.com/wiki/images/7/77/Vmware-logo.png?20241204132515" title="VMware" alt="VMware" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzemPW2zVigKv44mjIDfGwrf_Rgzcyu07m_A&s" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
-  <img src="https://static.cdnlogo.com/logos/r/85/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://www.clipartmax.com/png/middle/450-4502990_prometheus-logo-logo-prometheus-monitoring.png" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/2fb47a74-2aaa-4151-8713-182533bf07ed" title="OWASP" alt="OWASP" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/43272913?s=280&v=4" title="MITRE ATT&CK" alt="MITRE ATT&CK" width="40" height="40"/>&nbsp;
-  <img src="https://www.pngfind.com/pngs/m/255-2553250_icon-docker-notext-color-docker-icon-png-transparent.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-</p>  
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows 10" alt="Win10" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" title="Linux Mint" alt="Linux Mint" width="40" height="40" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/OpenSUSE_Logo.svg" title="openSUSE" alt="openSUSE" width="40" height="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" title="Oracle" alt="Oracle" width="40" height="40" />&nbsp;
+  <img src="https://www.meteobridge.com/wiki/images/7/77/Vmware-logo.png?20241204132515" title="VMware" alt="VMware" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VSCode" width="40" height="40" />&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzemPW2zVigKv44mjIDfGwrf_Rgzcyu07m_A&s" title=".NET" alt=".NET" width="40" height="40" />&nbsp;
+  <img src="https://static.cdnlogo.com/logos/r/85/react.svg" title="React" alt="React" width="40" height="40" />&nbsp;
+  <img src="https://www.clipartmax.com/png/middle/450-4502990_prometheus-logo-logo-prometheus-monitoring.png" title="Prometheus" alt="Prometheus" width="40" height="40" />&nbsp;
+  <img src="https://github.com/user-attachments/assets/2fb47a74-2aaa-4151-8713-182533bf07ed" title="OWASP" alt="OWASP" width="40" height="40" />&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/43272913?s=280&v=4" title="MITRE ATT&CK" alt="MITRE ATT&CK" width="40" height="40" />&nbsp;
+  <img src="https://www.pngfind.com/pngs/m/255-2553250_icon-docker-notext-color-docker-icon-png-transparent.png" title="Docker" alt="Docker" width="40" height="40" />&nbsp;
+</p>
+
 ## 📊 GitHub Stats
 
-<!-- Profile Summary Cards (Transparent Theme) -->
+<!-- Profile Summary Cards -->
 <p align="center">
   <img src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details" width="950" />
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/transparent/3-stats.svg" alt="Commit Stats" width="425" />
-  <img src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive Hours Heatmap" width="425" />
+  <img src="./profile-summary-card-output/transparent/3-stats.svg" alt="Commit Stats" width="450" />
+  <img src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive Hours Heatmap" width="450" />
 </p>
 
 <!-- Contribution Activity Graph -->
@@ -58,23 +58,24 @@
   <img src="https://github-profile-trophy-alpha.vercel.app/?username=Levoxyl&theme=tokyonight&no-bg=true&no-frame=true&column=8&margin-w=10" alt="Levoxyl Trophies" width="850" />
 </p>
 
-<!-- 🍃 Leetcode -->
+<!-- 🍃 LeetCode Activity -->
 <p align="center">
-  <img src="./leetcode-metrics.svg" width="800" alt="LeetCode Activity" />
+  <img src="./images/leetcode-metrics.svg" width="800" alt="LeetCode Activity" />
 </p>
 
-<!-- 🔳 3D Contribution Graph (Transparent 2026) -->
+<!-- 🔳 Isometric Contribution Matrix -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-2026-transparent.svg" alt="2026 3D Contribution Graph" width="950" />
+  <img src="./isometric-contributions.svg" alt="Isometric Contributions" width="950" />
 </p>
 
 ## 🎭 Project Highlights 
+
 <p align="center">  
   <a href="https://github.com/Levoxyl/CTM">
-    <img width="48%" alt="CTM" src="https://github-readme-stats.vercel.app/api/pin/?username=Levoxyl&repo=CTM&theme=tokyonight&bg_color=00000000&hide_border=true" />
+    <img width="48%" alt="CTM" src="./images/repo-ctm.svg" />
   </a>
   <a href="https://github.com/Levoxyl/AetherUI">
-    <img width="48%" alt="AetherUI" src="https://github-readme-stats.vercel.app/api/pin/?username=Levoxyl&repo=AetherUI&theme=tokyonight&bg_color=00000000&hide_border=true" />
+    <img width="48%" alt="AetherUI" src="./images/repo-aetherui.svg" />
   </a>
 </p>
 
