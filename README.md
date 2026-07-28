@@ -70,19 +70,26 @@
 
 ## 🎭 Project Highlights 
 
-## 🎭 Project Highlights
-
 <div align="center">
-  <table border="0" style="border: none; background: transparent;">
-    <tr style="background: transparent;">
-      <td align="center" style="border: none; background: radial-gradient(circle at 50% 0%, rgba(0, 106, 255, 0.35) 0%, rgba(13, 17, 23, 0.95) 70%); padding: 30px 15px 15px 15px; border-radius: 12px; box-shadow: inset 0 2px 15px rgba(0, 106, 255, 0.2);">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: 0 !important;">
+    <tr style="border: none !important; background-color: transparent !important;">
+      <!-- Left Spotlight Beam -->
+      <td width="150" align="right" valign="top" style="border: none !important; padding: 0;">
+        <img src="https://www.beyondstagelight.com/uploads/e755ce9914.png" width="140" style="display: block; opacity: 0.8;" alt="Spotlight Left" />
+      </td>
+      <!-- Center Stage: Project Cards -->
+      <td align="center" valign="middle" style="border: none !important; padding: 20px 10px; background: radial-gradient(ellipse at center, rgba(0, 106, 255, 0.15) 0%, rgba(13, 17, 23, 0) 70%);">
         <a href="https://github.com/Levoxyl/CTM">
-          <img width="420" alt="CTM" src="./images/repo-ctm.svg" />
+          <img width="380" alt="CTM" src="./images/repo-ctm.svg" />
         </a>
         &nbsp;&nbsp;
         <a href="https://github.com/Levoxyl/AetherUI">
-          <img width="420" alt="AetherUI" src="./images/repo-aetherui.svg" />
+          <img width="380" alt="AetherUI" src="./images/repo-aetherui.svg" />
         </a>
+      </td>
+      <!-- Right Spotlight Beam (Flipped Horizontally) -->
+      <td width="150" align="left" valign="top" style="border: none !important; padding: 0;">
+        <img src="https://www.beyondstagelight.com/uploads/e755ce9914.png" width="140" style="display: block; transform: scaleX(-1); opacity: 0.8;" alt="Spotlight Right" />
       </td>
     </tr>
   </table>
