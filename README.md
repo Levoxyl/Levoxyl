@@ -65,7 +65,7 @@
 
 <!-- 🔳 Isometric Contribution Matrix -->
 <p align="center">
-  <img src="./images/isometric-contributions.svg" alt="Isometric Contributions" width="950" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contributions" width="950" />
 </p>
 
 ## 🎭 Project Highlights 
