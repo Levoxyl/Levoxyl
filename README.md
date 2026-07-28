@@ -11,14 +11,11 @@
 
 👷 Independent Software Engineer **5y** | Freelancer at an Italian-Bulgarian company as a Full-Stack engineer **1y**  
 👨‍🎓 Graduated from a professional school as a Software Developer | **Hands-on projects and industrial practice** at [Melexis](https://www.melexis.com/), [Schwarz IT](https://www.schwarz-it.com/en/), [A1](https://www.a1.bg/bg)  
-🛠️ Hobbying with game dev and `blackboxing`  
-💻 Currently exploring:  
-&nbsp;
-<p align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz3XWYKu_vwhT-kwB_3GYLfw7OHWwzMO2VPw&s" title="Kali Linux" alt="Kali Linux" height="40" />&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s" title="Hack The Box" alt="HTB" height="40" />&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTsRGhVmdMtkHwtkOqYNc1XU8zoJ12BZPv2A&s" title="GeeksforGeeks" alt="GFG" height="40" />
-</p>
+🛠️ Hobbying with game dev and black boxing   
+💻 Currently exploring:
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz3XWYKu_vwhT-kwB_3GYLfw7OHWwzMO2VPw&s" title="Kali Linux" alt="Kali Linux" height="20" />&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s" title="Hack The Box" alt="HTB" height="20" />&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTsRGhVmdMtkHwtkOqYNc1XU8zoJ12BZPv2A&s" title="GeeksforGeeks" alt="GFG" height="20" />
 
 ## 🛠️ Tools
 
