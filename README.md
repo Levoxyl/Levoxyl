@@ -48,11 +48,6 @@
   <img src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive Hours Heatmap" width="46%" />
 </p>
 
-<!-- Contribution Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Levoxyl&custom_title=Contribution%20Graph&theme=tokyonight&bg_color=00000000&hide_border=true&color=006AFF" alt="Levoxyl Activity Graph" width="950" />
-</p>
-
 <!-- 🏆 GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy-alpha.vercel.app/?username=Levoxyl&theme=tokyonight&no-bg=true&no-frame=true&column=8&margin-w=10" alt="Levoxyl Trophies" width="850" />
