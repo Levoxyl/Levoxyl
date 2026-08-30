@@ -14,8 +14,10 @@ jobs:
       
     steps:
       - uses: actions/checkout@v4
-      
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          fetch-depth: 0
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.8.0
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
         with:
@@ -29,12 +31,12 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_user: Levoxyl
           plugin_leetcode_sections: solved, recent
-          
+
       - name: Commit and Push generated cards
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull origin main --rebase
-          git add -A
+          git status
+          git add profile-summary-card-output/ leetcode-metrics.svg || git add -A
           git diff --staged --quiet || git commit -m "chore: update profile summary cards [skip ci]"
           git push origin main
