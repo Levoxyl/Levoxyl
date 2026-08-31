@@ -4,18 +4,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&size=32&pause=1000&color=FFF&center=true&vCenter=true&width=500&lines=Full-stack+Mid-Dev;Building+the+future..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&size=32&pause=800&color=FFF&center=true&vCenter=true&width=500&lines=Full-Stack+Mid+Developer;Generating+UI...;Establishing+Database...;Grey+Boxing...;" alt="Typing SVG" />
 </p>
 
 ## 🧠 Tech Background
 
-👷 Independent Software Engineer **5y** | Freelancer at an Italian-Bulgarian company as a Full-Stack engineer **1y**  
-👨‍🎓 Graduated from a professional school as a Software Developer | **Hands-on projects and industrial practice** at [Melexis](https://www.melexis.com/), [Schwarz IT](https://www.schwarz-it.com/en/)
-🛠️ Hobbying with game dev and black boxing   
+👷 Freelance Software Engineer **5y** | Freelancer at an Italian-Bulgarian company as a Full-Stack engineer **1y**  
+👨‍🎓 Graduated from a vocational school as a Software Developer | **Hands-on projects and industrial practice** at [Melexis](https://www.melexis.com/), [Schwarz IT](https://www.schwarz-it.com/en/)
+🛠️ Hobbying with Game Dev and Black Boxing   
 💻 Currently exploring:
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz3XWYKu_vwhT-kwB_3GYLfw7OHWwzMO2VPw&s" title="Kali Linux" alt="Kali Linux" height="20" />&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s" title="Hack The Box" alt="HTB" height="20" />&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTsRGhVmdMtkHwtkOqYNc1XU8zoJ12BZPv2A&s" title="GeeksforGeeks" alt="GFG" height="20" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz3XWYKu_vwhT-kwB_3GYLfw7OHWwzMO2VPw&s" title="Kali Linux" alt="Kali Linux" height="25" />&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s" title="Hack The Box" alt="HTB" height="25" />&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTsRGhVmdMtkHwtkOqYNc1XU8zoJ12BZPv2A&s" title="Geeks for Geeks" alt="GFG" height="25" />
 
 ## 🛠️ Tools
 
