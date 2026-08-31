@@ -10,7 +10,7 @@
 ## 🧠 Tech Background
 
 👷 Freelance Software Engineer **5y** | Freelancer at an Italian-Bulgarian company as a Full-Stack engineer **1y**  
-👨‍🎓 Graduated from a vocational school as a Software Developer | **Hands-on projects and industrial practice** at [Melexis](https://www.melexis.com/), [Schwarz IT](https://www.schwarz-it.com/en/)
+👨‍🎓 Graduated from a vocational school as a Software Developer | Hands-on projects and industrial practice at [Melexis](https://www.melexis.com/), [Schwarz IT](https://www.schwarz-it.com/en/)
 🛠️ Hobbying with Game Dev and Black Boxing   
 💻 Currently exploring:
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz3XWYKu_vwhT-kwB_3GYLfw7OHWwzMO2VPw&s" title="Kali Linux" alt="Kali Linux" height="25" />&nbsp;
