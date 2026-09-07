@@ -5,8 +5,9 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch: 
 
-
-
+# FIX 1: Explicitly grant write permissions so the Action can save changes
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -19,7 +20,10 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: "⣿"
-          TIME_RANGE: all_time
+          TIME_RANGE: all_time 
           LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_TOTAL: true
+        # FIX 2: Explicitly pass the GitHub token to authenticate the commit
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
