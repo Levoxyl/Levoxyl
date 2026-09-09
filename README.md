@@ -81,6 +81,8 @@
 
 ## ⏱️ WakaTime Active Coding Activity
 
+[![wakatime](https://wakatime.com/badge/user/0de001a6-0692-4426-a969-ee5c6bea0564.svg)](https://wakatime.com/@0de001a6-0692-4426-a969-ee5c6bea0564)
+
 <!--START_SECTION:waka-->
 ```txt
 From: 20 March 2026 - To: 22 July 2026
