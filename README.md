@@ -9,7 +9,7 @@
 
 ## 🧠 Tech Background
 
-👷 Freelance Software Engineer **5y** | Freelancer at an Italian-Bulgarian company as a Full-Stack engineer **1y**  
+👷 Software Engineer **5y** | Freelancer at an Italian-Bulgarian company as a Full-Stack engineer **1y**  
 👨‍🎓 Graduated from a vocational school as a Software Developer | Hands-on projects and industrial practice at [Melexis](https://www.melexis.com/), [Schwarz IT](https://www.schwarz-it.com/en/)
 🛠️ Hobbying with Game Dev and Black Boxing   
 💻 Currently exploring:
